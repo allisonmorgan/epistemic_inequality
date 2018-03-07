@@ -4,7 +4,7 @@ Replication data and code for "Prestige drives epistemic inequality in the diffu
 
 #### `cache`
 
-Contains [pickles](https://docs.python.org/2/library/pickle.html) of epidemic size and length. The script `summary.py` will return how many simulations were run for each transmission probability, and each particular starting node.
+Contains [pickles](https://docs.python.org/2/library/pickle.html) of epidemic size and length. The script `summary.py` will return how many simulations were run for each transmission probability, and each particular starting node. The files `updatebusinessresults.py`, `updatecompsciresults.py`, and `updatehistoryresults.py`, will add more runs of each epidemic simulation to the files in `cache`.
 
 #### `data`
 
