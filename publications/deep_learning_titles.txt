@@ -1,0 +1,1605 @@
+Fast Neural Networks with Circulant Projections.
+Speaker adaptation OF RNN-BLSTM for speech recognition based on speaker code.
+Supervised Nonlinear Latent Feature Extraction and Regularized Random Weights Neural Network Modeling for Intrusion Detection System.
+Pre-Trained Multi-View Word Embedding Using Two-Side Neural Network.
+Using Ensemble Information in Swarming Artificial Neural Networks.
+Modeling the Response of An Electrorheological Fluid Damper: Constitutive Models and Neural Networks.
+The dependence identification neural network construction algorithm.
+Controllers with diagnostic capabilities. A neural network implementation.
+A Multilayer Perceptron Solution to the Match Phase Problem in Rule-Based Artificial Intelligence Systems.
+A simple method to derive bounds on the size and to train multilayer neural networks.
+Neural networks for control systems.
+Global exponential convergence and stability of gradient-based neural network for online matrix inversion.
+Configuring silicon neural networks using genetic algorithms.
+LSTM with Working Memory.
+Variational EM Learning of DSBNs with Conditional Deep Boltzmann Machines.
+A Morphological Neural Network Approach to Information Retrieval.
+Performance of Connectionist Learning Algorithms on 2-D SIMD Processor Arrays.
+Neural network models in simulation: a comparison with traditional modeling approaches.
+Knowledge Acquisition on Neural Networks.
+Using Neural Networks in Reliability Prediction.
+Prediction of Software Reliability Using Connectionist Models.
+The scaling problem in neural networks for software reliability prediction.
+Prediction of software reliability using neural networks.
+Generalized haar DWT and transformations between decision trees and neural networks.
+Investigating the Fault Tolerance of Neural Networks.
+Simultaneous Approximation with Neural Networks.
+LSTM-in-LSTM for generating long descriptions of images.
+Semisupervised Autoencoder for Sentiment Analysis.
+DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks.
+Attention Based Recurrent Neural Networks for Online Advertising.
+Deep Learning Driven Visual Path Prediction from a Single Image.
+Doubly Convolutional Neural Networks.
+Deep learning driven blockwise moving object detection with binary scene modeling.
+Multimedia Retrieval via Deep Learning to Rank.
+Weakly Semi-Supervised Deep Learning for Multi-Label Image Annotation.
+Dropout Training of Matrix Factorization and Autoencoder for Link Prediction in Sparse Graphs.
+Manifold Regularized Discriminative Neural Networks.
+Semisupervised Autoencoder for Sentiment Analysis.
+Dropout Training of Matrix Factorization and Autoencoder for Link Prediction in Sparse Graphs.
+Determination of Boiling Range of Xylene Mixed in PX Device Using Artificial Neural Networks.
+Rough Set-Probabilistic Neural Networks Fault Diagnosis Method of Polymerization Kettle Equipment Based on Shuffled Frog Leaping Algorithm.
+Neural Networks with Smooth Adaptive Activation Functions for Regression.
+Efficient Multiple Instance Convolutional Neural Networks for Gigapixel Resolution Image Classification.
+Stochastic Neural Networks with Monotonic Activation Functions.
+Stochastic Neural Networks with Monotonic Activation Functions.
+Convex Deep Learning via Normalized Kernels.
+Boltzmann Machine Learning with the Latent Maximum Entropy Principle.
+Boltzmann Machine Learning with the Latent Maximum Entropy Principle.
+L1-regularized Neural Networks are Improperly Learnable in Polynomial Time.
+$\ell_1$-regularized Neural Networks are Improperly Learnable in Polynomial Time.
+Learning Halfspaces and Neural Networks with Random Initialization.
+Mixture Representations for Inference and Learning in Boltzmann Machines.
+Attractor Dynamics in Feedforward Neural Networks.
+Mixture Representations for Inference and Learning in Boltzmann Machines.
+Neural Networks.
+Neural Networks.
+Learning piecewise control strategies in a modular neural network architecture.
+Task Decompostiion Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks.
+Task Decomposition Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks.
+A Competitive Modular Connectionist Architecture.
+Globally Normalized Transition-Based Neural Networks.
+Globally Normalized Transition-Based Neural Networks.
+Structured Training for Neural Network Transition-Based Parsing.
+Structured Training for Neural Network Transition-Based Parsing.
+Language Understanding for Text-based Games using Deep Reinforcement Learning.
+Language Understanding for Text-based Games Using Deep Reinforcement Learning.
+Convolutional neural network architectures for predicting DNA-protein binding.
+A Neural Network Classifier for Junk E-Mail.
+Text summarization techniques: SVM versus neural networks.
+Estimating User Location in Social Media with Stacked Denoising Auto-encoders.
+Dynamic Pricing in Electronic Commerce Using Neural Network.
+A Novel Semi-Supervised Deep Learning Framework for Affective State Recognition on EEG Signals.
+LRBM: A Restricted Boltzmann Machine Based Approach for Representation Learning on Linked Data.
+A Deep Learning Approach to Link Prediction in Dynamic Networks.
+Critical protein detection in dynamic PPI networks with multi-source integrated deep belief nets.
+Affective state recognition from EEG with deep belief networks.
+Multi-source deep learning for information trustworthiness estimation.
+Pseudo Boosted Deep Belief Network.
+Sequential Labeling with Online Deep Learning: Exploring Model Initialization.
+A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing Handwriting Style Development.
+Removing Structural Noise in Handwriting Images using Deep Learning.
+Dynamic classifier combination using neural network.
+A theory of classifier combination: the neural network approach.
+A privacy-preserving algorithm for distributed training of neural network ensembles.
+Privacy preserving Back-propagation neural network learning over arbitrarily partitioned data.
+Privacy-Preserving Backpropagation Neural Network Learning.
+Large-Scale Spiking Neural Networks using Neuromorphic Hardware Compatible Models.
+A GPU-accelerated cortical neural network model for visually guided robot navigation.
+CARLsim 3: A user-friendly and highly optimized library for the creation of neurobiologically detailed spiking neural networks.
+Efficient Spiking Neural Network Model of Pattern Motion Selectivity in Visual Cortex.
+A large-scale neural network model of the influence of neuromodulatory levels on working memory and behavior.
+Biologically plausible models of homeostasis and STDP: Stability and learning in spiking neural networks.
+A configurable simulation environment for the efficient simulation of large-scale spiking neural networks on graphics processors.
+Efficient simulation of large-scale Spiking Neural Networks using CUDA graphics processors.
+Connectivity in the Yeast Cell Cycle Transcription Network: Inferences from Neural Networks.
+A Langrangian Formulation of Neural Networks, part I: Theory and Analog Dynamics.
+A Langrangian Formulation of Neural Networks, part II: Clocked Objective Functions and Applications.
+A Mulitscale Attentional Framework for Relaxation Neural Networks.
+Optimization Dynamics for Partitioned Neural Networks.
+Neural network for model based recognition: Simulation results.
+Neural Networks for Model Matching and Perceptual Organization.
+Recursive Neural Networks for Coding Therapist and Patient Behavior in Motivational Interviewing.
+Discrete recurrent neural networks for grammatical inference.
+Rule-Based Neural Networks for Classification and Probability Estimation.
+Fault Diagnosis of Antenna Pointing Systems Using Hybrid Neural Network and Signal Processing Models.
+On Stochastic Complexity and Admissible Models for Neural Network Classifiers.
+An Information Theoretic Approach to Rule-Based Connectionist Expert Systems.
+Combining Neural Network Regression Estimates with Regularized Linear Weights.
+DeepStealth: Leveraging Deep Learning Models for Stealth Assessment in Game-Based Learning Environments.
+Player Goal Recognition in Open-World Digital Games with Long Short-Term Memory Networks.
+DeepStealth: Leveraging Deep Learning Models for Stealth Assessment in Game-Based Learning Environments.
+Diagrammatic Student Models: Modeling Student Drawing Performance with Deep Learning.
+Deep Learning-Based Goal Recognition in Open-Ended Digital Games.
+Deep Learning with MCA-based Instance Selection and Bootstrapping for Imbalanced Data Classification.
+Deep Learning for Imbalanced Multimedia Data Classification.
+Correlation-Based Deep Learning for Multimedia Semantic Concept Detection.
+Semantic Event Extraction Using Neural Network Ensembles.
+Neural Network Based Framework For Goal Event Detection In Soccer Videos.
+Function Approximation Using Robust Wavelet Neural Networks.
+On Hopfield neural networks.
+Facial Expression Recognition Using a Neural Network.
+The Application of RBF Neural Network in Earthquake Prediction.
+Chaotic Analysis of Seismic Time Series and Short-Term Prediction with RBF Neural Networks.
+Neural Network Guided Search Control in Partial Order Planning.
+Adaptive audio streaming in mobile ad hoc networks using neural networks.
+Scaffolding Problem Solving with Annotated, Worked-Out Examples to Promote Deep Learning.
+Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.
+Scalable and modularized RTL compilation of Convolutional Neural Networks onto FPGA.
+Guest Editors' Introduction: Special issue on deep learning with applications to visual representation and analysis.
+Deep convolutional neural networks for annotating gene expression patterns in the mouse brain.
+Automatic Setting of Article Format Through Neural Networks.
+FractalNet: Ultra-Deep Neural Networks without Residuals.
+AUCpreD: proteome-level protein disorder prediction by AUC-maximized deep convolutional neural fields.
+AUC-Maximized Deep Convolutional Neural Fields for Protein Sequence Labeling.
+Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model.
+Urban Land Use and Land Cover Classification Using Remotely Sensed SAR Data through Deep Belief Networks.
+AUC-maximized Deep Convolutional Neural Fields for Sequence Labeling.
+Protein secondary structure prediction using deep convolutional neural fields.
+Cellular neural networks for image analysis using steep slope devices.
+TFET-based cellular neural network architectures.
+Computational neural networks as model-free mapping devices.
+Applications of neural networks in chemistry. 1. Prediction of electrophilic aromatic substitution reactions.
+Predicting Chemical Reactions with a Neural Network.
+Deep Reinforcement Learning With Macro-Actions.
+Facial Expression Recognition Using a Neural Network.
+Nonlinear Model Predictive Control With Neural Network Optimization for Autonomous Autorotation of Small Unmanned Helicopters.
+Decision trees work better than feed-forward back-prop neural nets for a specific class of problems.
+Why are neural networks sometimes much more accurate than decision trees: an analysis on a bio-informatics problem.
+Encoding of Production Rules in a Connectionist Network.
+SC-net: A hybrid connectionist, symbolic system.
+Divide and Conquer Neural Networks.
+A comparison of neural network and fuzzy clustering techniques in segmenting magnetic resonance images of the brain.
+A Hybrid/Symbolic Connectionist Production System.
+A Hybrid Connectionist, Symbolic Learning System.
+Autonomous driving challenge: To Infer the property of a dynamic object based on its motion pattern using recurrent neural network.
+Evaluation of Deep Learning based Pose Estimation for Sign Language Recognition.
+Evaluation of Deep Learning based Pose Estimation for Sign Language.
+Selective Unsupervised Feature Learning with Convolutional Neural Network (S-CNN).
+MPOA flow classification design and analysis based on neural network technique.
+A-Wristocracy: Deep learning on wrist-worn sensing for recognition of user complex activities.
+Neural network-based heuristic algorithms for hypergraph coloring problems with applications.
+Subtype Cell Detection with an Accelerated Deep Convolution Neural Network.
+Efficient Lung Cancer Cell Detection with Deep Convolution Neural Network.
+Deep Belief Network for Modeling Hierarchical Reinforcement Learning Policies.
+A neural network for pursuit tracking inspired by the fly visual system.
+Categorization of Programs Using Neural Networks.
+Scaffolding Problem Solving with Annotated, Worked-Out Examples to Promote Deep Learning.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+On the Expressive Power of Restricted Boltzmann Machines.
+Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games.
+Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games.
+Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning.
+Memristor-Based Cellular Nonlinear/Neural Network: Design, Analysis, and Applications.
+CMOS and Memristor-Based Neural Network Design for Position Detection.
+A neural network design for circuit partitioning.
+A Neural Network Design for Circuit Partitioning.
+DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers.
+Dependency Sensitive Convolutional Neural Networks for Modeling Sentences and Documents.
+Structured Recurrent Temporal Restricted Boltzmann Machines.
+Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines.
+Automatic Lymph Node Cluster Segmentation Using Holistically-Nested Neural Networks and Structured Optimization in CT Images.
+Communicating Neural Network Knowledge between Agents in a Simulated Aerial Reconnaissance System.
+Multi-Instance Deep Learning: Discover Discriminative Local Anatomies for Bodypart Recognition.
+Multimodal Deep Learning for Cervical Dysplasia Diagnosis.
+Bodypart Recognition Using Multi-stage Deep Learning.
+Automated anatomical landmark detection ondistal femur surface using convolutional neural network.
+Robust shape prior modeling based on Gaussian-Bernoulli restricted Boltzmann Machine.
+Vessel extraction in X-ray angiograms using deep learning.
+Melanoma detection by analysis of clinical images using convolutional neural network.
+Extraction of Skin Lesions from Non-Dermoscopic Images Using Deep Learning.
+On learning of Sigmoid Neural Networks.
+Modular Learning in Neural Networks.
+Connectionist Models and Their Properties.
+Memristive Boltzmann machine: A hardware accelerator for combinatorial optimization and deep learning.
+Learning piecewise control strategies in a modular neural network architecture.
+Task Decompostiion Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks.
+Task Decomposition Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks.
+A Competitive Modular Connectionist Architecture.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+Recurrent Neural Networks for Emotion Recognition in Video.
+A Convolutional Neural Network Approach to Brain Tumor Segmentation.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+Brain Tumor Segmentation with Deep Neural Networks.
+Delving Deeper into Convolutional Networks for Learning Video Representations.
+Semi-supervised Learning with Encoder-Decoder Recurrent Neural Networks: Experiments with Motion Capture Sequences.
+Combining modality specific deep neural networks for emotion recognition in video.
+MESSM: a framework for protein fold recognition using Neural Networks and Support Vector Machines.
+Protein Fold Recognition by Mixed Environment-Specific Amino Acid Substitution Mapping Using Neural Networks.
+Protein Fold Recognition Using Neural Networks and Support Vector Machines.
+Protein threading with residue-environment matching by artificial neural networks.
+Weakly-and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation.
+Terrain-adaptive locomotion skills using deep reinforcement learning.
+Text summarization techniques: SVM versus neural networks.
+Performance Analysis of Sequential and Parallel Neural Network Algorithm for Stock Price Forecasting.
+PSO based neural network for time series forecasting.
+Neural Network Training Algorithms on Parallel Architectures for Finance Applications.
+Forecasting Stock Prices using Neural Networks on a Beowulf Cluster.
+Grey Neural Network Based Predictive Model for Multi-core Architecture 2D Spatial Characteristics.
+Neural Network-Based Decision Support for Incomplete Database Systems: Knowledge Acquisition and Performance Analysis.
+Application of Neural Networks in Handling Large Incomplete Databases: VLSI Design and Performance Analysis.
+Parallel Implementation of a Recursive Least-Squares Neural Network Training Method on the Intel iPSC/2.
+Fuzzy regression by fuzzy number neural networks.
+Fuzzy number neural networks.
+A Hierarchical Convolutional Neural Network for Mitosis Detection in Phase-Contrast Microscopy Images.
+A deep convolutional neural network trained on representative samples for circulating tumor cell detection.
+Human Activity Recognition Using Wearable Sensors by Deep Convolutional Neural Networks.
+Automatic Setting of Article Format Through Neural Networks.
+E-Net: Evolutionary neural network synthesis.
+A Hybrid Evolutionary Learining System for Synthesizing Neural Network Pattern Recognition Systems.
+Data driven articulatory synthesis with deep neural networks.
+Classification of bisyllabic lexical stress patterns in disordered speech using deep learning.
+Articulatory-based conversion of foreign accents with deep neural networks.
+A comparison of GMM-HMM and DNN-HMM based pronunciation verification techniques for use in the assessment of childhood apraxia of speech.
+Autonomous mobile robot global self-localization using Kohonen and region-feature neural networks.
+Global self-localization for autonomous mobile robots using self-organizing Kohonen neural networks.
+Human Skin Detection in Color Images Using Deep Learning.
+Human Skin Color Detection Using Neural Networks.
+Neural networks-based adaptive bidding with the contract net protocol in multi-robot systems.
+Machine tool positioning error compensation using artificial neural networks.
+Neural Network-Based Single Sensor Sound Localization Using A Mobile Robot.
+Inverse kinematics learning for robotic arms with fewer degrees of freedom by modular neural network systems.
+A modular neural network architecture for inverse kinematics model learning.
+Inverse Kinematics Learning by Modular Architecture Neural Networks with Performance Prediction Networks.
+Application of Generalized Chebyshev Neural Network in Air Quality Prediction.
+Air Quality Prediction in Yinchuan by Using Neural Networks.
+Approximation to Nonlinear Discrete-Time Systems by Recurrent Neural Networks.
+Function Approximation by Neural Networks.
+Adaptive audio streaming in mobile ad hoc networks using neural networks.
+Algorithmic Mapping of Neural Networks with Multiactivation Production Units onto SIMD Machines.
+The capability of feedforward neural networks with Ω-shaped activation functions.
+An analysis of competing neural network knowledge representation strategies.
+Image Classification Using Neural Networks and Ontologies.
+Query-oriented unsupervised multi-document summarization via deep learning model.
+Modeling gender information for emotion recognition using Denoising autoencoder.
+Introducing shared-hidden-layer autoencoders for transfer learning and their application in acoustic emotion recognition.
+Using denoising autoencoder for emotion recognition.
+Bilinear deep learning for image classification.
+Bilinear deep learning for image classification.
+Chinese Zero Pronoun Resolution with Deep Neural Networks.
+A Neural Network Based Approach for Overlay Multicast in Media Streaming Systems.
+t-Error Correcting/ d-Error Detecting (d>t) and All Unidirectional Error Detecting Codes with Neural Network (Part II).
+t-Error Correcting/ d-Error Detecting (d>t) and All Unidirectional Error Detecting Codes with Neural Network (Part I).
+On the location dependence of convolutional neural network features.
+Classifying file type of stream ciphers in depth using neural networks.
+Conditional Restricted Boltzmann Machines for Multi-label Learning with Incomplete Labels.
+DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection.
+Crowd Scene Understanding with Coherent Recurrent Neural Networks.
+DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection.
+On the weight sparsity of multilayer perceptrons.
+Utilizing Domain Knowledge in Developing Robust Neural Network Models for Peptide-Allele Binding Prediction.
+Quantization for distributed estimation using neural networks.
+Design of neural network quantizers for a distributed estimation system with communication constraints.
+Towards Efficient Learning of Neural Network Ensembles from Arbitrarily Large Datasets.
+Embedding Technical Analysis Into Neural Network Based Trading Systems.
+Parallel neural network learning through repetitive bounded depth trajectory branching.
+A discrete approach to constructive neural network learning.
+Evolutionary Design of Application Tailored Neural Networks.
+Parallel Neural Network Learning Through Repetitive Bounded Depth Trajectory Branching.
+Parallel and Distributed Systems for Constructive Neural Network Learning.
+Small Depth Polynomial Size Neural Networks.
+Analog Neural Networks of Limited Precision I: Computing with Multilinear Threshold Functions.
+Towards Efficient Learning of Neural Network Ensembles from Arbitrarily Large Datasets.
+Nonlinear Model Predictive Control With Neural Network Optimization for Autonomous Autorotation of Small Unmanned Helicopters.
+Wavelet Packet and Generalized Gaussian Density Based Textile Pattern Classification Using BP Neural Network.
+A Neural Network Approach to Approximating Map in Belief Networks.
+Training a Hidden Markov Model with a Bayesian Spiking Neural Network.
+Studying the interaction of a hidden Markov model with a Bayesian spiking neural network.
+GPU facilitated unsupervised visual feature acquisition in spiking neural networks.
+Modeling melody recognition using a sequence recognition neural network with meta-level processes.
+A stochastic population approach to the problem of stable recruitment hierarchies in spiking neural networks.
+Temporal binding as an inducer for connectionist recruitment learning over delayed lines.
+Synchronized Firing in a Time-Delayed Neural Network.
+Identifying causal structure in a biological neural network.
+Towards General-Purpose Neural Network Computing.
+Top-Down Neural Attention by Excitation Backprop.
+Top-down Neural Attention by Excitation Backprop.
+Super Mario as a String: Platformer Level Generation Via LSTMs.
+Translating Player Dialogue into Meaning Representations Using LSTMs.
+Super Mario as a String: Platformer Level Generation Via LSTMs.
+Fuzzy regression by fuzzy number neural networks.
+Fuzzy number neural networks.
+A Connectionist Framework for Reasoning: Reasoning with Examples.
+Mercury: Metro density prediction with recurrent neural network on streaming CDR data.
+The backpropagation algorithm on grid and hypercube architectures.
+An Efficient Implementation of the Back-propagation Algorithm on the Connection Machine CM-2.
+Connectionist Models for Natural Language Processing Program.
+Facial Expression Recognition Using a Neural Network.
+Evolving plastic neural networks with novelty search.
+Simple Evolutionary Optimization Can Rival Stochastic Gradient Descent in Neural Networks.
+Evolving neural networks.
+Multirobot Behavior Synchronization through Direct Neural Network Communication.
+Evolving neural networks for geometric game-tree pruning.
+Enhancing es-hyperneat to evolve more complex regular neural networks.
+Evolving plastic neural networks with novelty search.
+Autonomous Evolution of Topographic Regularities in Artificial Neural Networks.
+Indirect Encoding of Neural Networks for Scalable Go.
+A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks.
+Practical issues in evolving neural network controllers for video game agents.
+Evolving neural networks.
+Evolving neural networks.
+A novel generative encoding for exploiting neural network sensor and output geometry.
+Generating large-scale neural networks through discovering geometric regularities.
+Real-Time Evolution of Neural Networks in the NERO Video Game.
+Coevolution of neural networks using a layered pareto archive.
+Evolving Neural Network through Augmenting Topologies.
+Efficient Reinforcement Learning Through Evolving Neural Network Topologies.
+Learning Manipulation Trajectories Using Recurrent Neural Networks.
+Sparse Convolutional Neural Networks.
+Deep Learning Human Mind for Automated Visual Classification.
+Video Fill in the Blank with Merging LSTMs.
+Who Do I Look Like? Determining Parent-Offspring Resemblance via Gated Autoencoders.
+DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment.
+DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment.
+Automatic language identification with perceptually guided training and recurrent neural networks.
+A 1.5-D Architecture for Back-Propagation Training.
+A Comparison of ID3 and Backpropagation for English Text-to-Speech Mapping.
+A Comparative Study of ID3 and Backpropagation for English Text-to-Speech Mapping.
+Event Nugget Detection with Forward-Backward Recurrent Neural Networks.
+Event Nugget Detection with Forward-Backward Recurrent Neural Networks.
+Proactive reputation-based defense for MANETs using radial basis function neural networks.
+Reputation Prediction in Mobile Ad Hoc Networks Using RBF Neural Networks.
+An Analysis of Instance Selection for Neural Networks to Improve Training Speed.
+Reversible Image Watermarking Based on Neural Network and Parity Property.
+Monitoring land-surface snow conditions from SSM/I data using an artificial neural network classifier.
+Identification of mountain snow cover using SSM/I and artificial neural network.
+A neural network for breast cancer detection using fuzzy entropy approach.
+Efficient object localization using Convolutional Networks.
+Efficient ConvNet-based marker-less motion capture in general scenes with a low number of cameras.
+MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation.
+Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation.
+Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation.
+MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation.
+Efficient Object Localization Using Convolutional Networks.
+Learning Human Pose Estimation Features with Convolutional Networks.
+Modeling Skip-Grams for Event Detection with Convolutional Neural Networks.
+Joint Event Extraction via Recurrent Neural Networks.
+Event Detection and Domain Adaptation with Convolutional Neural Networks.
+Relation Extraction: Perspective from Convolutional Neural Networks.
+Combining Neural Networks and Log-linear Models to Improve Relation Extraction.
+Temperature decoupling control of double-level air flow field dynamic vacuum system based on neural network and prediction principle.
+Grey Neural Network Based Predictive Model for Multi-core Architecture 2D Spatial Characteristics.
+An efficient concurrent implementation of a neural network algorithm.
+A Distributed Discrete-Time Neural Network Architecture for Pattern Allocation and Control.
+Haptics-Enabled Surgical Training System with Guidance Using Deep Learning.
+Classification of non-time-locked rapid serial visual presentation events for brain-computer interaction using deep learning.
+A Deep Learning method for classification of images RSVP events with EEG data.
+Automatic Setting of Article Format Through Neural Networks.
+Neural Networks.
+Motif discoveries in unaligned molecular sequences using self-organizing neural networks.
+Identification of motifs with insertions and deletions in protein sequences using self-organizing neural networks.
+Analog versus discrete neural networks.
+On the complexity of training neural networks with continuous activation functions.
+On a Learnability Question Associated to Neural Networks with Continuous Activations (Extended Abstract).
+The Power of Approximation: A Comparison of Activation Functions.
+The Round Earth Project: Deep Learning in a Collaborative Virtual World.
+Fathom: reference workloads for modern deep learning methods.
+Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.
+Fathom: Reference Workloads for Modern Deep Learning Methods.
+Towards General-Purpose Neural Network Computing.
+Detection of Rogue Certificates from Trusted Certificate Authorities Using Deep Neural Networks.
+Neural Network Approach to Background Modeling for Video Object Segmentation.
+A neural network approach to bayesian background modeling for video object segmentation.
+Neural Network Approach to Background Modeling for Video Object Segmentation.
+Automatic kernel width selection for neural network based video object segmentation.
+A neural network approach to bayesian background modeling for video object segmentation.
+An Efficient Mapping Algorithm of Multilayer Perceptron on Mesh-connected Architectures.
+A scalable analog architecture for neural networks with on-chip learning and refreshing.
+An evolutionary algorithm that constructs recurrent neural networks.
+High-Level Connectionist Models - Workshop Report.
+A Theory of Generative ConvNet.
+A Theory of Generative ConvNet.
+Synthesizing Dynamic Textures and Sounds by Spatial-Temporal Generative ConvNet.
+Learning Generative ConvNet with Continuous Latent Factors by Alternating Back-Propagation.
+Deep neural network based spectral feature mapping for robust speech recognition.
+Segmental conditional random fields with deep neural networks as acoustic models for first-pass word recognition.
+Backpropagation training for multilayer conditional random field based phone recognition.
+Connectionist speech recognition of Broadcast News.
+Efficient Large Message Broadcast using NCCL and CUDA-Aware MPI for Deep Learning.
+A dynamic neural network approach for solving nonlinear inequalities defined on a graph and its application to distributed, routing-free, range-free localization of WSNs.
+The Analysis of the Energy Function of Chaotic Neural Network with White Noise.
+Mapping combinatorial optimization problems onto neural networks.
+State of Neural Networks Is Strong.
+Boosting Contextual Information for Deep Neural Network Based Voice Activity Detection.
+Robust pitch tracking in noisy speech using speaker-dependent deep neural networks.
+Improving Robustness of Deep Neural Network Acoustic Models via Speech Separation and Joint Adaptive Training.
+A deep neural network for time-domain signal reconstruction.
+Deep neural networks for cochannel speaker identification.
+Deep neural networks for estimating speech model activations.
+Deep neural network based spectral feature mapping for robust speech recognition.
+Speaker-dependent multipitch tracking using deep neural networks.
+Binaural classification for reverberant speech segregation using deep neural networks.
+Neural network based pitch tracking in very noisy speech.
+Neural networks for supervised pitch tracking in noise.
+Boosted deep neural networks and multi-resolution cochleagram features for voice activity detection.
+Binaural deep neural network classification for reverberant speech segregation.
+Ideal ratio mask estimation using deep neural networks for robust speech recognition.
+Pattern Recognition: Neural Networks in Perspective.
+An efficient concurrent implementation of a neural network algorithm.
+A Distributed Discrete-Time Neural Network Architecture for Pattern Allocation and Control.
+Color image compression using PCA and backpropagation learning.
+Classification of binary document images into textual or nontextual data blocks using neural network models.
+Simultaneous fitting of several planes to point sets using neural networks.
+Poster: Deep Learning Enabled M2M Gateway for Network Optimization.
+A Scalable Parallel Formulation of the Backpropagation Algorithm for Hypercubes and Related Architectures.
+Fault Detection and Identification in a Mobile Robot using Multiple Model Estimation and Neural Network.
+Decision support in non-conservative domains: Generalization with neural networks.
+A Scalable Parallel Formulation of the Backpropagation Algorithm for Hypercubes and Related Architectures.
+Customizing Parallel Formulations of Backpropagation Learning Algorithm to Neural Network Architectures : A Summary of Results.
+Generalization by Neural Networks.
+Decision Support in Non-Conservative Domains: Generalization with Neural Networks.
+Evolution of internal dynamics for neural network nodes.
+Interpretable deep neural networks for enhancer prediction.
+Misuse Detection - A Neural Network vs. A Genetic Algorithm Approach.
+An Integrated Connectionist Approach to Reinforcement Learning for Robotic Control.
+Rapid unsupervised connectionist learning for backing a robot with two trailers.
+Fast connectionist learning for trailer backing using a real robot.
+Computational-complexity reduction for neural network algorithms.
+A neural network learning strategy for the control of a one-legged hopping machine.
+Convergence and Pattern-Stabilization in the Boltzmann Machine.
+Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks.
+Learning to Compose Neural Networks for Question Answering.
+Learning to Compose Neural Networks for Question Answering.
+Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks.
+Towards Evaluating the Robustness of Neural Networks.
+KD trees and Delaunay-based linear interpolation for function learning: a comparison to neural networks with error backpropagation.
+Recognizing Functions in Binaries with Neural Networks.
+Region-Based Convolutional Networks for Accurate Object Detection and Segmentation.
+Deformable part models are convolutional neural networks.
+DeepBox: Learning Objectness with Convolutional Networks.
+DeepBox: Learning Objectness with Convolutional Networks.
+Analyzing the Performance of Multilayer Neural Networks for Object Recognition.
+Analyzing the Performance of Multilayer Neural Networks for Object Recognition.
+Deformable Part Models are Convolutional Neural Networks.
+TSC-DL: Unsupervised trajectory segmentation of multi-modal surgical demonstrations with Deep Learning.
+Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations.
+Using Backpropagation with Temporal Windows to Learn the Dynamics of the CMU Direct-Drive Arm II.
+L1-regularized Neural Networks are Improperly Learnable in Polynomial Time.
+$\ell_1$-regularized Neural Networks are Improperly Learnable in Polynomial Time.
+Learning Halfspaces and Neural Networks with Random Initialization.
+Mixture Representations for Inference and Learning in Boltzmann Machines.
+Attractor Dynamics in Feedforward Neural Networks.
+Mixture Representations for Inference and Learning in Boltzmann Machines.
+Neural Networks.
+Neural Networks.
+Learning piecewise control strategies in a modular neural network architecture.
+Task Decompostiion Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks.
+Task Decomposition Through Competition in a Modular Connectionist Architecture: The What and Where Vision Tasks.
+A Competitive Modular Connectionist Architecture.
+Benchmarking Deep Reinforcement Learning for Continuous Control.
+Deep spatial autoencoders for visuomotor learning.
+Learning deep neural network policies with continuous memory states.
+TSC-DL: Unsupervised trajectory segmentation of multi-modal surgical demonstrations with Deep Learning.
+Benchmarking Deep Reinforcement Learning for Continuous Control.
+Backprop KF: Learning Discriminative Deterministic State Estimators.
+Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks.
+Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer.
+Deep Reinforcement Learning for Tensegrity Robot Locomotion.
+Reset-Free Guided Policy Search: Efficient Deep Reinforcement Learning with Stochastic Initial States.
+Deep learning helicopter dynamics models.
+Learning Visual Feature Spaces for Robotic Manipulation with Deep Spatial Autoencoders.
+One-Shot Learning of Manipulation Skills with Online Dynamics Adaptation and Neural Network Priors.
+Learning Neural Network Policies with Guided Policy Search under Unknown Dynamics.
+Deep Learning for Population Genetic Inference.
+Latent orientation field estimation via convolutional neural network.
+Guest Editorial Special Issue on Artificial Neural Networks and Statistical Pattern Recognition.
+Artificial Neural Networks: A Tutorial.
+Artificial neural networks for feature extraction and multivariate data projection.
+Pseudo Boosted Deep Belief Network.
+Sequential Labeling with Online Deep Learning: Exploring Model Initialization.
+A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing Handwriting Style Development.
+Removing Structural Noise in Handwriting Images using Deep Learning.
+Dynamic classifier combination using neural network.
+A theory of classifier combination: the neural network approach.
+Learning Salient Features for Speech Emotion Recognition Using Convolutional Neural Networks.
+Knowledge discovery in corporate events by neural network rule extraction.
+An efficient concurrent implementation of a neural network algorithm.
+Chinese syllable-to-character conversion with recurrent neural network based supervised sequence labelling.
+An Integrative Neural Network with Feedback Control for Classification.
+TRUST-TECH Based Neural Network Training.
+A Load-Balancing Self-Organizing Incremental Neural Network.
+Distributed Neural Network Control for Adaptive Synchronization of Uncertain Dynamical Multiagent Systems.
+Density Estimation Method Based on Self-organizing Incremental Neural Networks and Error Estimation.
+The detection of temporally distributed network attacks using an adaptive hierarchical neural network.
+Detection of Distributed Attacks in Mobile Ad-hoc Networks using Self-organizing Temporal Neural Networks.
+Using Deep Learning for Energy Expenditure Estimation with wearable sensors.
+Real-time speech-driven face animation with expressions using neural networks.
+Neural Network Models for Implicit Discourse Relation Classification in English and Chinese without Surface Features.
+Feature Optimization for Constituent Parsing via Neural Networks.
+The backpropagation algorithm on grid and hypercube architectures.
+An Efficient Implementation of the Back-propagation Algorithm on the Connection Machine CM-2.
+Connectionist Models for Natural Language Processing Program.
+Learning human arm movements by imitation: : Evaluation of a biologically inspired connectionist architecture.
+CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks.
+Dependency-Based Semantic Role Labeling using Convolutional Neural Networks.
+Template-based procedures for neural network interpretation.
+Lending direction to neural networks.
+Neural Network Music Composition by Prediction: Exploring the Benefits of Psychoacoustic Constraints and Multi-scale Processing.
+Template-Based Algorithms for Connectionist Rule Extraction.
+Dynamic Conflict Resolution in a Connectionist Rule-Based System.
+Directional-Unit Boltzmann Machines.
+A Connectionist Symbol Manipulator that Discovers the Structure of Context-Free Languages.
+SLUG: A Connectionist Architecture for Inferring the Structure of Finite-State Environments.
+Neural network music composition and the induction of multiscale temporal structure.
+Connectionist Music Composition Based on Melodic and Stylistic Constraints.
+Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games.
+Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games.
+Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning.
+Missing Value Imputation with Unsupervised Backpropagation.
+A hybrid latent variable neural network model for item recommendation.
+A Hybrid Latent Variable Neural Network Model for Item Recommendation.
+Missing Value Imputation With Unsupervised Backpropagation.
+Artificial neural network reduction through oracle learning.
+A Bradley-Terry artificial neural network model for individual ratings in group competitions.
+CB3: An Adaptive Error Function for Backpropagation Training.
+Neural Networks and Machine Learning: Towards Fully Automated Learning.
+Improved Backpropagation Learning in Neural Networks with Windowed Momentum.
+DMP3: A Dynamic Multilayer Perceptron Construction Algorithm.
+Using a Neural Network to Approximate an Ensemble of Classifiers.
+A transformation strategy for implementing distributed, multilayer feedforward neural networks: Backpropagation transformation.
+A transformation for implementing localist neural networks.
+Location-Independent Transformations: a General Strategy for Implementing Neural Networks.
+The Limitations of Deep Learning in Adversarial Settings.
+Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks.
+Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples.
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks.
+The Limitations of Deep Learning in Adversarial Settings.
+Neural network input representations that produce accurate consensus sequences from DNA fragment assemblies.
+Using neural networks for data mining.
+Connectionist Theory Refinement: Genetically Searching the Space of Network Topologies.
+Connectionist Theory Refinement: Genetically Searching the Space of Network Topologies.
+Actively Searching for an Effective Neural Network Ensemble.
+Dynamically adding symbolically meaningful nodes to knowledge-based neural networks.
+Combining the Predictions of Multiple Classifiers: Using Competitive Learning to Initialize Neural Networks.
+Rapid Quality Estimation of Neural Network Input Representations.
+Knowledge-Based Artificial Neural Networks.
+Using Sampling and Queries to Extract Rules from Trained Neural Networks.
+Using Genetic Search to Refine Knowledge-based Neural Networks.
+Using Knowledge-Based Neural Networks to Improve Algorithms: Refining the Chou-Fasman Algorithm for Protein Folding.
+Extracting Refined Rules from Knowledge-Based Neural Networks.
+Learning Symbolic Rules Using Artificial Neural Networks.
+Heuristically Expanding Knowledge-Based Neural Networks.
+Visualizing Learning and Computation in Artificial Neural Networks.
+Refining PID Controllers Using Neural Networks.
+Using Knowledge-Based Neural Networks to Improve Algorithms: Refining the Chou-Fasman Algorithm for Protein Folding.
+Using Symbolic Learning to Improve Knowledge-Based Neural Networks.
+Constructive Induction in Knowledge-Based Neural Networks.
+Refined PID Controllers Using Neural Networks.
+Interpretation of Artificial Neural Networks: Mapping Knowledge-Based Neural Networks into Rules.
+Refinement ofApproximate Domain Theories by Knowledge-Based Neural Networks.
+Training Knowledge-Based Neural Networks to Recognize Genes.
+Combining Explanation-Based Learning and Artificial Neural Networks.
+Processing Issues in Comparisons of Symbolic and Connectionist Learning Systems.
+An Experimental Comparison of Symbolic and Connectionist Learning Algorithms.
+Color image compression using PCA and backpropagation learning.
+Classification of binary document images into textual or nontextual data blocks using neural network models.
+Simultaneous fitting of several planes to point sets using neural networks.
+Emotion in Robots Using Convolutional Neural Networks.
+Robust Stability Criterion for Discrete-Time Uncertain Markovian Jumping Neural Networks With Defective Statistics of Modes Transitions.
+Deep learning code fragments for code clone detection.
+Toward Deep Learning Software Repositories.
+SERF: efficient scheduling for fast deep neural network serving via judicious parallelism.
+PRACTISE - Demonstrating a Neural Network Based Framework for Robust Prediction of Data Center Workload.
+Estimation of K distribution parameters using neural networks.
+Applications of neural networks in socio-economic modeling.
+Cellular Neural Networks for Segmentation of Image Sequence.
+Classification and Estimation of Ultrasound Speckle Noise with Neural Networks.
+New diagnostic criteria for polycythemia rubra vera: Artificial neural network approach.
+Logic-Oriented Model Of Artificial Neural Networks.
+Multiple Instance Fuzzy Inference Neural Networks.
+Adaptive Local Fusion with Neural Networks.
+Deep Learning of Part-based Representation of Data Using Sparse Autoencoders with Nonnegativity Constraints.
+Explainable Restricted Boltzmann Machines for Collaborative Filtering.
+Complete This Puzzle: A Connectionist Approach to Accurate Web Recommendations Based on a Committee of Predictors.
+Accurate web recommendations based on profile-specific url-predictor neural networks.
+Biological Sequence Mining Using Plausible Neural Network and its Application to Exon/intron Boundaries Prediction.
+MPOA flow classification design and analysis based on neural network technique.
+Neural Network-Based Decision Support for Incomplete Database Systems: Knowledge Acquisition and Performance Analysis.
+Application of Neural Networks in Handling Large Incomplete Databases: VLSI Design and Performance Analysis.
+Evolving plastic neural networks with novelty search.
+The Limitations of Deep Learning in Adversarial Settings.
+Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks.
+Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples.
+Crafting Adversarial Input Sequences for Recurrent Neural Networks.
+Adversarial Perturbations Against Deep Neural Networks for Malware Classification.
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks.
+The Limitations of Deep Learning in Adversarial Settings.
+A generic reconfigurable neural network architecture as a network on chip.
+Energy Efficient RRAM Spiking Neural Network for Real Time Classification.
+Image Super-Resolution Using Deep Belief Networks.
+Training a Hidden Markov Model with a Bayesian Spiking Neural Network.
+Studying the interaction of a hidden Markov model with a Bayesian spiking neural network.
+GPU facilitated unsupervised visual feature acquisition in spiking neural networks.
+Modeling melody recognition using a sequence recognition neural network with meta-level processes.
+A stochastic population approach to the problem of stable recruitment hierarchies in spiking neural networks.
+Temporal binding as an inducer for connectionist recruitment learning over delayed lines.
+Synchronized Firing in a Time-Delayed Neural Network.
+Identifying causal structure in a biological neural network.
+Autonomous driving challenge: To Infer the property of a dynamic object based on its motion pattern using recurrent neural network.
+A predictive modeling engine using neural networks: Diabetes management from sensor and activity data.
+Recurrent convolutional neural network for object recognition.
+Deep Convolutional Neural Network and Multi-view Stacking Ensemble in Ali Mobile Recommendation Algorithm Competition: The Solution to the Winning of Ali Mobile Recommendation Algorithm.
+Interlinked Convolutional Neural Networks for Face Parsing.
+Convolutional Neural Networks with Intra-Layer Recurrent Connections for Scene Labeling.
+Traffic sign detection based on convolutional neural networks.
+A compact neural network for training support vector machines.
+An Adaline Neural Network-Based Multi-User Detector Improved by Particle Swarm Optimization in CDMA Systems.
+Solving the Assignment Problem with the Improved Dual Neural Network.
+Design of recurrent neural networks for solving constrained least absolute deviation problems.
+Applications of the general projection neural network in solving extended linear-quadratic programming problems with linear constraints.
+A New Recurrent Neural Network for Solving Convex Quadratic Programming Problems With an Application to the k -Winners-Take-All Problem.
+An Alternative Recurrent Neural Network for Solving Variational Inequalities and Related Optimization Problems.
+Another Simple Recurrent Neural Network for Quadratic and Linear Programming.
+Motion Planning with Obstacle Avoidance for Kinematically Redundant Manipulators Based on Two Recurrent Neural Networks.
+An Improved Dual Neural Network for Solving a Class of Quadratic Programming Problems and Its k-Winners-Take-All Application.
+Solving Generally Constrained Generalized Linear Variational Inequalities Using the General Projection Neural Networks.
+A Recurrent Neural Network for Solving a Class of General Variational Inequalities.
+Design of General Projection Neural Networks for Solving Monotone Linear Variational Inequalities and Linear and Quadratic Optimization Problems.
+Solving the k-Winners-Take-All Problem and the Oligopoly Cournot-Nash Equilibrium Problem Using the General Projection Neural Networks.
+Convergence of a Recurrent Neural Network for Nonconvex Optimization Based on an Augmented Lagrangian Function.
+Solving Pseudomonotone Variational Inequalities and Pseudoconvex Optimization Problems Using the Projection Neural Network.
+Solving Extended Linear Programming Problems Using a Class of Recurrent Neural Networks.
+A Recurrent Neural Network for Solving Nonconvex Optimization Problems.
+Global stability of a recurrent neural network for solving pseudomonotone variational inequalities.
+Knowledge Acquisition on Neural Networks.
+Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPUs and GPUs.
+DeepQA: Improving the estimation of single protein model quality with deep belief networks.
+A Deep Learning Network Approach to ab initio Protein Secondary Structure Prediction.
+NNcon: improved protein contact map prediction using 2D-recursive neural networks.
+A neural network approach to ordinal regression.
+A neural network approach to ordinal regression.
+DOMpro: Protein Domain Prediction Using Profiles, Secondary Structure, Relative Solvent Accessibility, and Recursive Neural Networks.
+Three-stage prediction of protein ?-sheets by neural networks, alignments and graph algorithms.
+EvoAE - A New Evolutionary Method for Training Autoencoders for Deep Learning Networks.
+A new active labeling method for deep learning.
+DL-PRO: A novel deep learning method for protein model quality assessment.
+Global Optimization for Neural Network Training.
+Backpropagation learns Marr's operator.
+Disturbance attenuation for nonlinear switched descriptor systems based on neural network.
+The Application of Run-Length Features in Remote Sensing Classification Combined with Neural Network and Rough Set.
+Automated Segmentation and Classification of Multispectral Magnetic Resonance Imaging of Brain Using Artificial Neural Networks.
+Multiple Instance Fuzzy Inference Neural Networks.
+Adaptive Local Fusion with Neural Networks.
+Deep Learning of Part-based Representation of Data Using Sparse Autoencoders with Nonnegativity Constraints.
+Explainable Restricted Boltzmann Machines for Collaborative Filtering.
+Complete This Puzzle: A Connectionist Approach to Accurate Web Recommendations Based on a Committee of Predictors.
+Accurate web recommendations based on profile-specific url-predictor neural networks.
+Dynamical approximation by recurrent neural networks.
+Absence of Cycles in Symmetric Neural Networks.
+Absence of Cycles in Symmetric Neural Networks.
+Observability of Neural Network Behavior.
+On stability and solvability (or, when does a neural network solve a problem?).
+DeepTutor: An Effective, Online Intelligent Tutoring System That Promotes Deep Learning.
+Conditional Computation in Neural Networks for faster models.
+Continuous Information Representation and Processing In Natural and Artificial Neural Networks.
+Characteristics of connectionist knowledge representation.
+Using Deep Learning for Energy Expenditure Estimation with wearable sensors.
+Multiclass classification based on a deep convolutional network for head pose estimation.
+Learn++: an incremental learning algorithm for supervised neural networks.
+LEARN++: an incremental learning algorithm for multilayer perceptron networks.
+Constructive Neural Network Learning Algorithms.
+Generative learning structures and processes for generalized connectionist networks.
+Neural Network Design and the Complexity of Learning (Book Review).
+Coordination and control structures and processes: possibilities for connectionist networks (CN).
+Generation, Local Receptive Fields and Global Convergence Improve Perceptual Learning in Connectionist Networks.
+Neural Network-Based Decision Support for Incomplete Database Systems: Knowledge Acquisition and Performance Analysis.
+Coevolutionary learning of neural network ensemble for complex classification tasks.
+An initial investigation on the use of fractional calculus with neural networks.
+Speaker adaptation OF RNN-BLSTM for speech recognition based on speaker code.
+Supervised Nonlinear Latent Feature Extraction and Regularized Random Weights Neural Network Modeling for Intrusion Detection System.
+Pre-Trained Multi-View Word Embedding Using Two-Side Neural Network.
+Using Ensemble Information in Swarming Artificial Neural Networks.
+An Intelligent QoS Identification for Untrustworthy Web Services via Two-Phase Neural Networks.
+An Intelligent QoS Identification for Untrustworthy Web Services Via Two-phase Neural Networks.
+Classification of Seismic Windows Using Artificial Neural Networks.
+Recognizing Surgical Activities with Recurrent Neural Networks.
+Recognizing Surgical Activities with Recurrent Neural Networks.
+Temporal Convolutional Networks: A Unified Approach to Action Segmentation.
+Optimization of hysteretic chaotic neural network based on fuzzy sliding mode control.
+DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment.
+DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment.
+A new investment strategy based on data mining and Neural Networks.
+Learning Control of a Robotic System Using Neural Networks.
+An Integrative Neural Network with Feedback Control for Classification.
+Categorization of Programs Using Neural Networks.
+Crater Detection via Convolutional Neural Networks.
+Prediction gradients for feature extraction and analysis from convolutional neural networks.
+Super Mario as a String: Platformer Level Generation Via LSTMs.
+Translating Player Dialogue into Meaning Representations Using LSTMs.
+Super Mario as a String: Platformer Level Generation Via LSTMs.
+First-Order Recurrent Neural Networks and Deterministic Finite State Automata.
+Quantitative object motion prediction by an ART2 and Madaline combined neural network.
+Explanation Based Learning: A Comparison of Symbolic and Neural Network Approaches.
+Integrating Inductive Neural Network Learning and Explanation-Based Learning.
+Explanation-Based Neural Network Learning for Robot Control.
+Direct Transfer of Learned Information Among Neural Networks.
+Neural Networks.
+Motif discoveries in unaligned molecular sequences using self-organizing neural networks.
+Identification of motifs with insertions and deletions in protein sequences using self-organizing neural networks.
+Analog versus discrete neural networks.
+On the complexity of training neural networks with continuous activation functions.
+On a Learnability Question Associated to Neural Networks with Continuous Activations (Extended Abstract).
+The Power of Approximation: A Comparison of Activation Functions.
+Multi-Instance Deep Learning: Discover Discriminative Local Anatomies for Bodypart Recognition.
+Multimodal Deep Learning for Cervical Dysplasia Diagnosis.
+Bodypart Recognition Using Multi-stage Deep Learning.
+Automated anatomical landmark detection ondistal femur surface using convolutional neural network.
+Robust shape prior modeling based on Gaussian-Bernoulli restricted Boltzmann Machine.
+A Shape-Based Approach for Salient Object Detection Using Deep Learning.
+Discovering Characteristic Landmarks on Ancient Coins using Convolutional Networks.
+Stochastic noise Process enhancement of Hopfield neural networks.
+Combining Neural Network Regression Estimates with Regularized Linear Weights.
+Context-Sensitive Weights for a Neural Network.
+SimNest: Social Media Nested Epidemic Simulation via Online Semi-Supervised Deep Learning.
+Flow of Information in Feed-Forward Deep Neural Networks.
+SimNest: Social Media Nested Epidemic Simulation via Online Semi-Supervised Deep Learning.
+A neural network approach to the identification of b-/y-ions in MS/MS spectra.
+An Artificial Neural Network Based Approach for Identification of Native Protein Structures Using an Extended Forcefield.
+Identification of H-NMR Spectra of Xyloglucan Oligosaccharides: A Comparative Study of Artificial Neural Networks and Bayesian Classification Using Nonparametric Density Estimation.
+A Comparative Study of Artificial Neural Networks Using Reinforcement Learning and Multidimensional Bayesian Classification Using Parzen Density Estimation for Identification of GC-EIMS Spectra of Partially Methylated Alditol Acetates on the World Wide Web.
+Algorithmic Mapping of Neural Networks with Multiactivation Production Units onto SIMD Machines.
+The capability of feedforward neural networks with Ω-shaped activation functions.
+An analysis of competing neural network knowledge representation strategies.
+Neural networks-based detection of stepping-stone intrusion.
+Performance of Neural Networks in Stepping-Stone Intrusion Detection.
+Fault resilient physical neural networks on a single chip.
+An iVector extractor using pre-trained neural networks for speaker verification.
+Asynchronous stochastic gradient descent for DNN training.
+Video Summarization with Long Short-Term Memory.
+Video Summarization with Long Short-term Memory.
+Discovering Multimodal Behavior in Ms. Pac-Man Through Evolution of Modular Neural Networks.
+Evolving Neural Networks.
+Evolving Deep LSTM-based Memory Networks using an Information Maximization Objective.
+Tutorial III: Evolving neural networks.
+Evolving Neural Networks.
+General intelligence through prolonged evolution of densely connected neural networks.
+Evolving multimodal behavior with modular neural networks in Ms. Pac-Man.
+Evolving neural networks.
+Evolving neural networks.
+Neuroannealing: martingale optimization for neural networks.
+Evolving neural networks.
+Evolving neural networks.
+Topology of a Neural Network.
+Evolving neural networks for strategic decision-making problems.
+Evolving symmetric and modular neural networks for distributed control.
+Evolving neural networks.
+Evolving neural networks for fractured domains.
+Evolving neural networks.
+Evolving neural networks.
+System Identification for the Hodgkin-Huxley Model using Artificial Neural Networks.
+Real-Time Evolution of Neural Networks in the NERO Video Game.
+Coevolution of neural networks using a layered pareto archive.
+Broad-Coverage Parsing with Neural Networks.
+Evolving neural network ensembles for control problems.
+Evolving Neural Network through Augmenting Topologies.
+Efficient Reinforcement Learning Through Evolving Neural Network Topologies.
+A Self-Organizing Neural Network for Contour Integration through Synchronized Firing.
+SARDSRN: A Neural Network Shift-Reduce Parser.
+Evolving Neural Networks to Play Go.
+A Self-Organizing Neural Network Model of the Primary Visual Cortex.
+Visual Schemas in Neural Networks for Object Recognition and Scene Analysis.
+Forming Neural Networks Through Efficient and Adaptive Coevolution.
+Evolving Neural Networks to Play Go.
+Intrusion Detection with Neural Networks.
+Discovering Complex Othello Strategies through Evolutionary Neural Networks.
+Visualizing High-Dimensional Structure with the Incremental Grid Growing Neural Network.
+VISOR: Schema-based scene analysis with structured neural networks.
+Parsing Embedded Clauses with Distributed Neural Networks.
+Evolving Neural Networks to Focus Minimax Search.
+Improving Game-Tree Search with Evolutionary Neural Networks.
+Integrated Connectionist Models: Building AI Systems on Subsymbolic Foundations.
+Learning Statistical Scripts with LSTM Recurrent Neural Networks.
+Using Sentence-Level LSTM Language Models for Script Inference.
+Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text.
+Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text.
+Using Sentence-Level LSTM Language Models for Script Inference.
+Translating Videos to Natural Language Using Deep Recurrent Neural Networks.
+Translating Videos to Natural Language Using Deep Recurrent Neural Networks.
+Processing Issues in Comparisons of Symbolic and Connectionist Learning Systems.
+An Experimental Comparison of Symbolic and Connectionist Learning Algorithms.
+Deep Reinforcement Learning in Parameterized Action Space.
+A Neural Network-Based Approach to Robot Motion Control.
+A Scalable Parallel Formulation of the Backpropagation Algorithm for Hypercubes and Related Architectures.
+Structured Recurrent Temporal Restricted Boltzmann Machines.
+Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines.
+Predicting the Flexibility of Dynamic Loop Scheduling Using an Artificial Neural Network.
+Restricted Boltzmann machines for neuroimaging: An application in identifying intrinsic networks.
+Approximation by Fully Complex Multilayer Perceptrons.
+Universal approximation of fully complex feed-forward neural networks.
+Complex backpropagation neural network using elementary transcendental activation functions.
+NOx and CO Prediction in Fossil Fuel Plants by Time Delay Neural Networks.
+Quantification and segmentation of brain tissues from MR images: a probabilistic neural network approach.
+A piecewise linear recurrent neural network structure and its dynamics.
+Modeling nuclear reactor core dynamics with recurrent neural networks.
+Conditional distribution learning with neural networks and its application to channel equalization.
+Probabilistic Neural Networks for Medical Image Quantification.
+Classification of clustered microcalcifications using a Shape Cognitron neural network.
+A quantitative and comparative analysis of linear and nonlinear spectral mixture models using radial basis function neural networks.
+Robust radial basis function neural networks.
+Communicating Neural Network Knowledge between Agents in a Simulated Aerial Reconnaissance System.
+Backpropagation learns Marr's operator.
+Adaptive Normalized Risk-Averting Training for Deep Neural Networks.
+Adaptive Normalized Risk-Averting Training For Deep Neural Networks.
+Spatially Encoding Temporal Correlations to Classify Temporal Data Using Convolutional Neural Networks.
+Comparing Raw Data and Feature Extraction for Seizure Detection with Deep Learning Methods.
+Discovering and Characterizing Hidden Variables Using a Novel Neural Network Architecture: LO-Net.
+Learning Deterministic Finite Automaton with a Recurrent Neural Network.
+Generalized haar DWT and transformations between decision trees and neural networks.
+Investigating the Fault Tolerance of Neural Networks.
+Simultaneous Approximation with Neural Networks.
+Efficient object localization using Convolutional Networks.
+Efficient ConvNet-based marker-less motion capture in general scenes with a low number of cameras.
+MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation.
+Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation.
+Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation.
+MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation.
+Efficient Object Localization Using Convolutional Networks.
+Learning Human Pose Estimation Features with Convolutional Networks.
+Rethinking Sigma's Graphical Architecture: An Extension to Neural Networks.
+EIE: Efficient Inference Engine on Compressed Deep Neural Network.
+EIE: Efficient Inference Engine on Compressed Deep Neural Network.
+A Systematic Approach to Blocking Convolutional Neural Networks.
+Deep Reinforcement Learning for Mention-Ranking Coreference Models.
+Understanding Human Language: Can NLP and Deep Learning Help?
+Deep Reinforcement Learning for Mention-Ranking Coreference Models.
+Computational Linguistics and Deep Learning.
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.
+Tree-Structured Composition in Neural Networks without Tree-Structured Architectures.
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.
+Tree-structured composition in neural networks without tree-structured architectures.
+A Fast and Accurate Dependency Parser using Neural Networks.
+Global Belief Recursive Neural Networks.
+Recursive Neural Networks for Learning Logical Semantics.
+Better Word Representations with Recursive Neural Networks for Morphology.
+Deep Learning for NLP (without Magic).
+Relaxations for inference in restricted Boltzmann machines.
+Deep Learning for NLP (without Magic).
+Convolutional-Recursive Deep Learning for 3D Object Classification.
+Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions.
+Parsing Natural Scenes and Natural Language with Recursive Neural Networks.
+Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection.
+Neural network control for a fire-fighting robot.
+A compound control method based on the adaptive neural network and sliding mode control for inertial stable platform.
+Active Object Localization with Deep Reinforcement Learning.
+Training Deeper Convolutional Networks with Deep Supervision.
+Active Object Localization with Deep Reinforcement Learning.
+Assessing Neural Networks as Guides for Testing Activities.
+On the Use of Neural Networks to Guide Software Testing Activities.
+Hybrid network-on-chip architectures for accelerating deep learning kernels on heterogeneous manycore platforms.
+Towards Efficient Learning of Neural Network Ensembles from Arbitrarily Large Datasets.
+Embedding Technical Analysis Into Neural Network Based Trading Systems.
+Parallel neural network learning through repetitive bounded depth trajectory branching.
+A discrete approach to constructive neural network learning.
+Evolutionary Design of Application Tailored Neural Networks.
+Parallel Neural Network Learning Through Repetitive Bounded Depth Trajectory Branching.
+Parallel and Distributed Systems for Constructive Neural Network Learning.
+Small Depth Polynomial Size Neural Networks.
+Analog Neural Networks of Limited Precision I: Computing with Multilinear Threshold Functions.
+Assessing Threat of Adversarial Examples on Deep Neural Networks.
+A New Multi-output Neural Model with Tunable Activation Function and its Applications.
+Multimodal Deep Learning for Cervical Dysplasia Diagnosis.
+Automated Segmentation and Classification of Multispectral Magnetic Resonance Imaging of Brain Using Artificial Neural Networks.
+Approximate B-Spline Surface Based on RBF Neural Networks.
+Automatic scanpath generation with deep recurrent neural networks.
+Simulating Biological Motion Perception Using a Recurrent Neural Network.
+Introduction to the special issue on neural networks in financial engineering.
+Learning from hints in neural networks.
+Analog Neural Networks as Decoders.
+Lower bound for connectivity in local-learning neural networks.
+Neural Network Computation by In Vitro Transcriptional Circuits.
+Service Trustworthiness Evaluation Using Neural Network and Fuzzy Logic.
+Customized Cloud Service Trustworthiness Evaluation and Comparison Using Fuzzy Neural Networks.
+IP geolocation estimation using neural networks with stable landmarks.
+Detection of malicious and non-malicious website visitors using unsupervised neural network learning.
+Image-Compression for Wireless World Wide Web Browsing: A Neural Network Approach.
+Categorizing Web pages on the subject of neural networks.
+Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks.
+Color image compression using PCA and backpropagation learning.
+Classification of binary document images into textual or nontextual data blocks using neural network models.
+Simultaneous fitting of several planes to point sets using neural networks.
+Automatic Crater Detection Using Convex Grouping and Convolutional Neural Networks.
+Sky Segmentation by Fusing Clustering with Neural Networks.
+Curvature scale-space-driven object recognition with an indexing scheme based on artificial neural networks.
+Object recognition using invariant object boundary representations and neural network models.
+Backpropagation without human supervision for visual control in Quake II.
+Real-Time Evolution of Neural Networks in the NERO Video Game.
+Forecasting the weather of Nevada: A deep learning approach.
+A Simple Fuzzy Neural Network.
+Using Games to Embody Spiking Neural Networks for Neuromorphic Hardware.
+Efficiently passing messages in distributed spiking neural network simulation.
+Implementation of a Biologically Realistic Parallel Neocortical-Neural Network Simulator.
+Forecasting the weather of Nevada: A deep learning approach.
+An Evolutionary Autonomous Agent with Visual Cortex and Recurrent Spiking Columnar Neural Network.
+A Scale and Translation Invariant Approach for Early Classification of Spatio-Temporal Patterns Using Spiking Neural Networks.
+An Unsupervised Approach to Learning and Early Detection of Spatio-Temporal Patterns Using Spiking Neural Networks.
+An Unsupervised Learning Approach for Classifying Sequence Data for Human Robotic Interaction Using Spiking Neural Network.
+Scale and translation invariant learning of spatio-temporal patterns using longest common subsequences and spiking neural networks.
+A Scale and Translation Invariant Approach for Early Classification of Spatio-Temporal Patterns Using Spiking Neural Networks.
+An Unsupervised Approach to Learning and Early Detection of Spatio-Temporal Patterns Using Spiking Neural Networks.
+An Unsupervised Learning Approach for Classifying Sequence Data for Human Robotic Interaction Using Spiking Neural Network.
+Scale and translation invariant learning of spatio-temporal patterns using longest common subsequences and spiking neural networks.
+A diphone-based digit recognition system using neural networks.
+Semi-supervised training of a voice conversion mapping function using a joint-autoencoder.
+Voice conversion using deep neural networks with speaker-independent pre-training.
+Fast neural network surrogates for very high dimensional physics-based models in computational oceanography.
+Erratum to "Fast neural network surrogates for very high dimensional physics-based models in computational oceanography" [Neural Netw. 20(4) (2007) 462-478].
+Context dependent phone models for LSTM RNN acoustic modelling.
+Inferring social contexts from audio recordings using deep neural networks.
+Neural Network-Based Vision Guided Robotics.
+Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.
+Scalable and modularized RTL compilation of Convolutional Neural Networks onto FPGA.
+TSC-DL: Unsupervised trajectory segmentation of multi-modal surgical demonstrations with Deep Learning.
+Comparing Human-Centric and Robot-Centric Sampling for Robot Deep Learning from Demonstrations.
+Using Backpropagation with Temporal Windows to Learn the Dynamics of the CMU Direct-Drive Arm II.
+Improved Deep Learning of Object Category using Pose Information.
+Deep Learning on Natural Viewing Behaviors to Differentiate Children with Fetal Alcohol Spectrum Disorder.
+Learning human arm movements by imitation: : Evaluation of a biologically inspired connectionist architecture.
+Rethinking Sigma's Graphical Architecture: An Extension to Neural Networks.
+Video Summarization with Long Short-Term Memory.
+Video Summarization with Long Short-term Memory.
+Marginalized Denoising Auto-encoders for Nonlinear Representations.
+Marginalized Denoising Autoencoders for Domain Adaptation.
+Marginalized Denoising Autoencoders for Domain Adaptation.
+Fault Detection and Identification in a Mobile Robot using Multiple Model Estimation and Neural Network.
+Sonar-based feature recognition and robot navigation using a neural network.
+Tamp: A Library for Compact Deep Neural Networks with Structured Matrices.
+Fast Neural Networks with Circulant Projections.
+Exploiting Feature and Class Relationships in Video Categorization with Regularized Deep Neural Networks.
+DeepSentiBank: Visual Sentiment Concept Classification with Deep Convolutional Neural Networks.
+Label Propagation from ImageNet to 3D Point Clouds.
+Globally Normalized Transition-Based Neural Networks.
+Globally Normalized Transition-Based Neural Networks.
+Structured Training for Neural Network Transition-Based Parsing.
+Structured Training for Neural Network Transition-Based Parsing.
+The backpropagation algorithm on grid and hypercube architectures.
+An Efficient Implementation of the Back-propagation Algorithm on the Connection Machine CM-2.
+Connectionist Models for Natural Language Processing Program.
+Assessing Threat of Adversarial Examples on Deep Neural Networks.
+Methods to Speed Up Error Back-Propagation Learning Algorithm.
+A-Wristocracy: Deep learning on wrist-worn sensing for recognition of user complex activities.
+Neural network-based heuristic algorithms for hypergraph coloring problems with applications.
+Kriging bootstrapped neural network training for fast and accurate process variation analysis.
+Privacy preserving Back-propagation neural network learning over arbitrarily partitioned data.
+Privacy-Preserving Backpropagation Neural Network Learning.
+t-Error Correcting/ d-Error Detecting (d>t) and All Unidirectional Error Detecting Codes with Neural Network (Part II).
+t-Error Correcting/ d-Error Detecting (d>t) and All Unidirectional Error Detecting Codes with Neural Network (Part I).
+Faster Web Page Allocation with Neural Networks.
+Logistic Neural Networks: Their chaotic and pattern recognition properties.
+Cryptanalysis of a Cryptographic Algorithm that Utilizes Chaotic Neural Networks.
+The entire range of Chaotic pattern recognition properties possessed by the Adachi neural network.
+On Merging the Fields of Neural Networks and Adaptive Data Structures to Yield New Pattern Recognition Methodologies.
+Adachi-Like Chaotic Neural Networks Requiring Linear-Time Computations by Enforcing a Tree-Shaped Topology.
+Chaotic Pattern Recognition: The Spectrum of Properties of the Adachi Neural Network.
+Periodicity and stability issues of a chaotic pattern recognition neural network.
+Desynchronizing a Chaotic Pattern Recognition Neural Network to Model Inaccurate Perception.
+Analytic Results on the Hodgkin-Huxley Neural Network: Spikes Annihilation.
+Numerical Results on the Hodgkin-Huxley Neural Network: Spikes Annihilation.
+Neural Network-Based Chaotic Pattern Recognition - Part 2: Stability and Algorithmic Issues.
+Modeling Inaccurate Perception: Desynchronization Issues of a Chaotic Pattern Recognition Neural Network.
+Image Subset Selection Using Gabor Filters and Neural Networks.
+Nonlinear Modeling of Dynamic Cerebral Autoregulation Using Recurrent Neural Networks.
+DeepChrome: deep-learning for predicting gene expression from histone modifications.
+DeepChrome: Deep-learning for predicting gene expression from histone modifications.
+Fast generic selection of features for neural network classifiers.
+A Neural Network Implementation of a Data Association Algorithm.
+Phase space learning in an autonomous dynamical neural network.
+Organization of face and object recognition in modular neural network models.
+A Connectionist Simulation of the Empirical Acquisition of Grammatical Relations.
+Tau Net A neural network for modeling temporal variability.
+Time-delay neural networks: representation and induction of finite-state machines.
+Serial Order in Reading Aloud: Connectionist Models and Neighborhood Structure.
+Representation and Induction of Finite State Machines using Time-Delay Neural Networks.
+Connectionist models of face processing: A survey.
+A Connectionist Approach to Rate Adaptation.
+Integrating Induction & Instruction: Connectionist Advice Taking.
+Toward Connectionist Parsing.
+A deep learning methodology to proliferate golden signoff timing.
+Simulated annealing of neural networks: The 'cooling' strategy reconsidered.
+Interactive Control of Diverse Complex Characters with Neural Networks.
+Real-time motor control using recurrent neural networks.
+Associating Grasping with Convolutional Neural Network Features.
+Multi-view Convolutional Neural Networks for 3D Shape Recognition.
+Multi-view Convolutional Neural Networks for 3D Shape Recognition.
+Augmenting CRFs with Boltzmann Machine Shape Priors for Image Labeling.
+Learning hierarchical representations for face verification with convolutional deep belief networks.
+Learning class-specific image transformations with higher-order Boltzmann machines.
+Deep Reinforcement Learning With Macro-Actions.
+Implementation of universal computation via small recurrent finite precision neural networks.
+The Super-Turing Computational Power of plastic Recurrent Neural Networks.
+The Computational Power of Interactive Recurrent Neural Networks.
+A year of neural network research: Special Issue on the 2011 International Joint Conference on Neural Networks.
+Evolving recurrent neural networks are super-Turing.
+Neural Networks.
+Symbolic Processing in Neural Networks.
+Verifying Properties of Neural Networks.
+Sensor registration using neural networks.
+Discontinuities in Recurrent Neural Networks.
+Noisy Neural Networks and Generalizations.
+The complexity of language recognition by neural networks.
+Computational power of neural networks: a characterization in terms of Kolmogorov complexity.
+Computational capabilities of recurrent NARX neural networks.
+A Generic Approach for Identification of Event Related Brain Potentials via a Competitive Neural Network Structure.
+Recurrent Neural Networks and Finite Automata.
+The Dynamic Universality of Sigmoidal Neural Networks.
+On NIL: the Software Constructor of Neural Networks.
+On the complexity of training neural networks with continuous activation functions.
+Input variable selection for neural networks: application to predicting the U.S. business cycle.
+Analog Computation via Neural Networks.
+On a Learnability Question Associated to Neural Networks with Continuous Activations (Extended Abstract).
+On The Computational Power of Probabilistic and Faulty Neural Networks.
+On the Power of Sigmoid Neural Networks.
+Analog Computation Via Neural Networks.
+The Complexity of Language Recognition by Neural Networks.
+Provable ICA with Unknown Gaussian Noise, and Implications for Gaussian Mixtures and Autoencoders.
+"Provable ICA with Unknown Gaussian Noise, with Implications for Gaussian Mixtures and Autoencoders".
+Provable ICA with Unknown Gaussian Noise, and Implications for Gaussian Mixtures and Autoencoders.
+Deep Learning with Hierarchical Convolutional Factor Analysis.
+Cross-modal Sound Mapping Using Deep Learning.
+ImageNet: A large-scale hierarchical image database.
+Study of Ensemble Method of Classifiers for Neural Networks based on K-means Clustering.
+Comparison of Data Mining and Neural Network Methods on Aero-engine Vibration Fault Diagnosis.
+Fault Diagnosis of Oil Pump Based on Wavelet Neural Network.
+The Detection System of Oil Tube Defect Based on Multisensor Data Fusion by Improved Simulated Annealing Neural Network.
+Research of Sludge Compost Maturity Degree Modeling Method Based on Wavelet Neural Network for Sewage Treatment.
+Research on Detecting Method of Submarine Oil Pipelines Corrosion Degree Based on Chaos Genetic Algorithm Neural Network.
+Application of RBF and SOFM Neural Networks on Vibration Fault Diagnosis for Aero-engines.
+Application of Fuzzy SOFM Neural Network and Rough Set Theory on Fault Diagnosis for Rotating Machinery.
+Fuzzy Multiple Synapses Neural Network and Fuzzy Clustering.
+Customer Targeting: A Neural Network Approach Guided by Genetic Algorithms.
+Evidence of hyperplanes in the genetic learning of neural networks.
+Semantic Event Extraction Using Neural Network Ensembles.
+Deep convolutional neural networks for annotating gene expression patterns in the mouse brain.
+Deep convolutional neural networks for multi-modality isointense infant brain image segmentation.
+Deep Convolutional Neural Networks for Multi-instance Multi-task Learning.
+Robust Deep Learning for Improved Classification of AD/MCI Patients.
+Deep Learning Based Imaging Data Completion for Improved Brain Disease Diagnosis.
+3D Convolutional Neural Networks for Human Action Recognition.
+3D Convolutional Neural Networks for Human Action Recognition.
+Deep convolutional neural networks for annotating gene expression patterns in the mouse brain.
+Using Deep Learning for Energy Expenditure Estimation with wearable sensors.
+Deep Reinforcement Learning With Macro-Actions.
+A Neural Network Based Approach for Overlay Multicast in Media Streaming Systems.
+Designing Templates for Cellular Neural Networks Using Particle Swarm Optimization.
+Latent orientation field estimation via convolutional neural network.
+Guest Editorial Special Issue on Artificial Neural Networks and Statistical Pattern Recognition.
+Artificial Neural Networks: A Tutorial.
+Artificial neural networks for feature extraction and multivariate data projection.
+Investigating whether hyperNEAT produces modular neural networks.
+Investigating whether hyperNEAT produces modular neural networks.
+WWN-2: A biologically inspired neural network for concurrent visual attention and recognition.
+Object Recognition by a Self-Organizing Neural Network which Grows Adaptively.
+An improved synthesis method for multilayered neural networks using qualitative knowledge.
+A connectionist approach for rule-based inference using an improved relaxation method.
+A Method to Implement Qualitative Knowledge in Multi-Layered Neural Networks.
+Structured prediction models for RNN based sequence labeling in clinical text.
+Bidirectional RNN for Medical Event Detection in Electronic Health Records.
+Bidirectional Recurrent Neural Networks for Medical Event Detection in Electronic Health Records.
+Structured prediction models for RNN based sequence labeling in clinical text.
+Reasoning with Memory Augmented Neural Networks for Language Comprehension.
+Analysis of crack stability in concrete dams with chaos optimized neural network.
+Caffeine: towards uniformed representation and acceleration for deep convolutional neural networks.
+Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.
+Minimizing Computation in Convolutional Neural Networks.
+Accelerating Divergent Applications on SIMD Architectures Using Neural Networks.
+Accelerating divergent applications on SIMD architectures using neural networks.
+Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree.
+Training Deeper Convolutional Networks with Deep Supervision.
+Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree.
+What Happened to My Dog in That Network: Unraveling Top-down Generators in Convolutional Neural Networks.
+A Theory of Generative ConvNet.
+A Theory of Generative ConvNet.
+Synthesizing Dynamic Textures and Sounds by Spatial-Temporal Generative ConvNet.
+Learning Generative ConvNet with Continuous Latent Factors by Alternating Back-Propagation.
+A deep learning methodology to proliferate golden signoff timing.
+Simulated annealing of neural networks: The 'cooling' strategy reconsidered.
+Automating Microarray Classification Using General Regression Neural Networks.
+An Evolutionary Approach to The Use of Neural Network in The Segmentation of Handwritten Numerals.
+Connectivity in the Yeast Cell Cycle Transcription Network: Inferences from Neural Networks.
+A Langrangian Formulation of Neural Networks, part I: Theory and Analog Dynamics.
+A Langrangian Formulation of Neural Networks, part II: Clocked Objective Functions and Applications.
+A Mulitscale Attentional Framework for Relaxation Neural Networks.
+Optimization Dynamics for Partitioned Neural Networks.
+Neural network for model based recognition: Simulation results.
+Neural Networks for Model Matching and Perceptual Organization.
+Recognizing Surgical Activities with Recurrent Neural Networks.
+Recognizing Surgical Activities with Recurrent Neural Networks.
+Temporal Convolutional Networks: A Unified Approach to Action Segmentation.
+Learning Text Pair Similarity with Context-sensitive Autoencoders.
+Opponent Modeling in Deep Reinforcement Learning.
+A Neural Network for Factoid Question Answering over Paragraphs.
+A Group Theoretic Perspective on Unsupervised Deep Learning.
+Why does Deep Learning work? - A perspective from Group Theory.
+Detection of neuron membranes in electron microscopy images using a serial neural network architecture.
+Conference Report on 2015 International Joint Conference on Neural Networks (IJCNN 2015) [Conference Reports].
+Editorial IEEE Transactions on Neural Networks and Learning Systems 2016 and Beyond.
+Evolution of recollection and prediction in neural networks.
+Segmentation of textures defined on flat vs. layered surfaces using neural networks: Comparison of 2D vs. 3D representations.
+Facilitating neural dynamics for delay compensation and prediction in evolutionary neural networks.
+A Self-Organizing Neural Network for Contour Integration through Synchronized Firing.
+A Self-Organizing Neural Network Model of the Primary Visual Cortex.
+Data driven articulatory synthesis with deep neural networks.
+Classification of bisyllabic lexical stress patterns in disordered speech using deep learning.
+Articulatory-based conversion of foreign accents with deep neural networks.
+A comparison of GMM-HMM and DNN-HMM based pronunciation verification techniques for use in the assessment of childhood apraxia of speech.
+Autonomous mobile robot global self-localization using Kohonen and region-feature neural networks.
+Global self-localization for autonomous mobile robots using self-organizing Kohonen neural networks.
+Using a neural network to predict student responses.
+Performance Enhancement of Data Classification using Selectively Cloned Genetic Algorithm for Neural Network.
+Evolutionary Neural Network with Selective Cloning for Data Classification.
+Nonlinear Model Predictive Control With Neural Network Optimization for Autonomous Autorotation of Small Unmanned Helicopters.
+First-Order Recurrent Neural Networks and Deterministic Finite State Automata.
+Longitudinal Face Modeling via Temporal Deep Restricted Boltzmann Machines.
+Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling.
+Beyond Principal Components: Deep Boltzmann Machines for face modeling.
+Contour-based handwritten numeral recognition using multiwavelets and neural networks.
+White Blood Cell Differential Counts Using Convolutional Neural Networks for Low Resolution Images.
+Reversible Image Watermarking Based on Neural Network and Parity Property.
+Monitoring land-surface snow conditions from SSM/I data using an artificial neural network classifier.
+Identification of mountain snow cover using SSM/I and artificial neural network.
+A neural network for breast cancer detection using fuzzy entropy approach.
+Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.
+Scalable and modularized RTL compilation of Convolutional Neural Networks onto FPGA.
+Natural Language Grammatical Inference with Recurrent Neural Networks.
+Natural language grammatical inference: a comparison of recurrent neural networks and machine learning methods.
+On the Expressive Power of Restricted Boltzmann Machines.
+Training Deep Neural Networks via Direct Loss Minimization.
+The Variational Fair Autoencoder.
+Gated Graph Sequence Neural Networks.
+On the Expressive Power of Restricted Boltzmann Machines.
+Cardinality Restricted Boltzmann Machines.
+Lending direction to neural networks.
+Autoencoders, Minimum Description Length and Helmholtz Free Energy.
+Directional-Unit Boltzmann Machines.
+Passphrase Authentication Based on Typing Style Through an Art 2 Neural Network.
+User Identification via Keystroke Characteristics of Typed Names using Neural Networks.
+Exploring the use of deep learning for feature location.
+Privacy Preserving Back-Propagation Neural Network Learning Made Practical with Cloud Computing.
+Privacy Preserving Back-Propagation Learning Made Practical with Cloud Computing.
+A Non-parametric Approach to Detect Epileptogenic Lesions using Restricted Boltzmann Machines.
+Color image compression using PCA and backpropagation learning.
+Classification of binary document images into textual or nontextual data blocks using neural network models.
+Simultaneous fitting of several planes to point sets using neural networks.
+Performance of Connectionist Learning Algorithms on 2-D SIMD Processor Arrays.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Change Detection in Overhead Imagery Using Neural Networks.
+SEMINT: A tool for identifying attribute correspondences in heterogeneous databases using neural networks.
+Database Integration Using Neural Networks: Implementation and Experiences.
+Semantic Integration in Heterogeneous Databases Using Neural Networks.
+Interpretable deep neural networks for enhancer prediction.
+Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields.
+Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields.
+Dynamic System Prediction using Temporal Artificial Neural Networks and Multi-Objective Genetic Algorithms.
+Probabilistic Learning in Bayesian and Stochastic Neural Networks.
+Modeling the Response of An Electrorheological Fluid Damper: Constitutive Models and Neural Networks.
+The dependence identification neural network construction algorithm.
+Controllers with diagnostic capabilities. A neural network implementation.
+A Multilayer Perceptron Solution to the Match Phase Problem in Rule-Based Artificial Intelligence Systems.
+A simple method to derive bounds on the size and to train multilayer neural networks.
+Neural networks for control systems.
+A Deep Learning Approach for Semantic Segmentation in Histology Tissue Images.
+3D Segmentation of Glial Cells Using Fully Convolutional Networks and k-Terminal Cut.
+Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation.
+Detection of Glands and Villi by Collaboration of Domain Knowledge and Deep Learning.
+Neutrophils Identification by Deep Learning and Voronoi Diagram of Clusters.
+Cellular neural networks for image analysis using steep slope devices.
+TFET-based cellular neural network architectures.
+Applying neural networks to classify influenza virus antigenic types and hosts.
+Quantitative object motion prediction by an ART2 and Madaline combined neural network.
+Neural Network-Based Decision Support for Incomplete Database Systems: Knowledge Acquisition and Performance Analysis.
+Neural Network-Based Decision Support for Incomplete Database Systems: Knowledge Acquisition and Performance Analysis.
+Application of Neural Networks in Handling Large Incomplete Databases: VLSI Design and Performance Analysis.
+Misuse Detection - A Neural Network vs. A Genetic Algorithm Approach.
+An Integrated Connectionist Approach to Reinforcement Learning for Robotic Control.
+Rapid unsupervised connectionist learning for backing a robot with two trailers.
+Fast connectionist learning for trailer backing using a real robot.
+On-Chip Compensation of Device-Mismatch Effects in Analog VLSI Neural Networks.
+Training Connectionist Networks with Queries and Selective Sampling.
+Large Margin Boltzmann Machines and Large Margin Sigmoid Belief Networks.
+Large Margin Boltzmann Machines.
+Interactive Control of Diverse Complex Characters with Neural Networks.
+Real-time motor control using recurrent neural networks.
+A general purpose model for image operations based on multilayer perceptrons.
+Implementing morphological operations using programmable neural networks.
+Representing and Processing Production Systems in Connectionist Architectures.
+A connectionist approach to learning legal moves in Tower-of-Hanoi.
+Model-Based Neural Network and Wavelet Packets Decomposition on Damage Detecting of Composites.
+Categorization of Programs Using Neural Networks.
+Compressing Convolutional Neural Networks in the Frequency Domain.
+Multi-Scale Convolutional Neural Networks for Time Series Classification.
+Compressing Neural Networks with the Hashing Trick.
+Compressing Neural Networks with the Hashing Trick.
+Compressing Convolutional Neural Networks.
+Fusing Heterogeneous Features From Stacked Sparse Autoencoder for Histopathological Image Analysis.
+Compressing Convolutional Neural Networks in the Frequency Domain.
+Densely Connected Convolutional Networks.
+Compressing Neural Networks with the Hashing Trick.
+Compressing Neural Networks with the Hashing Trick.
+Compressing Convolutional Neural Networks.
+Marginalized Denoising Auto-encoders for Nonlinear Representations.
+Marginalized Denoising Autoencoders for Domain Adaptation.
+Marginalized Denoising Autoencoders for Domain Adaptation.
+Classifying file type of stream ciphers in depth using neural networks.
+Fast Neural Networks with Circulant Projections.
+Change Detection in Overhead Imagery Using Neural Networks.
+SEMINT: A tool for identifying attribute correspondences in heterogeneous databases using neural networks.
+Database Integration Using Neural Networks: Implementation and Experiences.
+Semantic Integration in Heterogeneous Databases Using Neural Networks.
+Terrain-adaptive locomotion skills using deep reinforcement learning.
+Finding MAPs using strongly equivalent high order recurrent symmetric connectionist networks.
+Neural networks approaches for discovering the learnable correlation between gene function and gene expression in mouse.
+Connectionist Approaches for Predicting Mouse Gene Function from Gene Expression.
+Classification with Bayesian Neural Networks.
+Connectionist Learning of Belief Networks.
+Asymmetric Parallel Boltzmann Machines are Belief Networks.
+On the Expressive Power of Restricted Boltzmann Machines.
+Training Deep Neural Networks via Direct Loss Minimization.
+The Variational Fair Autoencoder.
+Gated Graph Sequence Neural Networks.
+On the Expressive Power of Restricted Boltzmann Machines.
+Cardinality Restricted Boltzmann Machines.
+Lending direction to neural networks.
+Autoencoders, Minimum Description Length and Helmholtz Free Energy.
+Directional-Unit Boltzmann Machines.
+Learning semantic representation with neural networks for community question answering retrieval.
+Knowledge Acquisition on Neural Networks.
+Vessel extraction in X-ray angiograms using deep learning.
+Melanoma detection by analysis of clinical images using convolutional neural network.
+Extraction of Skin Lesions from Non-Dermoscopic Images Using Deep Learning.
+On learning of Sigmoid Neural Networks.
+Two-dimensional multirate systolic array design for artificial neural networks.
+LightNet: A Versatile, Standalone Matlab-based Environment for Deep Learning.
+LightNet: A Versatile, Standalone Matlab-based Environment for Deep Learning.
+Learning Text Pair Similarity with Context-sensitive Autoencoders.
+Opponent Modeling in Deep Reinforcement Learning.
+A Neural Network for Factoid Question Answering over Paragraphs.
+Virtual autoencoder based recommendation system for individualizing head-related transfer functions.
+A Statistical Neural Network Framework for Risk Management Process - From the Proposal to its Preliminary Validation for Efficiency.
+Marker-Passing over Microfeatures: Towards a Hybrid Symbolic/Connectionist Model.
+Marker-Passing over Microfeatures: Towards a Hybrid Symbolic/Connectionist Model.
+Node-By-Node Greedy Deep Learning for Interpretable Features.
+Optimal Sparse Linear Auto-Encoders and Sparse PCA.
+NN-OPT: Neural Network for Option Pricing Using Multinomial Tree.
+Introduction to the special issue on neural networks in financial engineering.
+Neural Networks for Density Estimation.
+Is the connectionist-logicist clash one of AI's wonderful red herrings?
+A 1.5-D Architecture for Back-Propagation Training.
+A Neural Network Model of Chemotaxis Predicts Functions of Synaptic Connections in the Nematode Caenorhabditis elegans.
+A deep learning approach for human behavior prediction with explanations in health social networks: social restricted Boltzmann machine (SRBM+).
+Differential Privacy Preservation for Deep Auto-Encoders: an Application of Human Behavior Prediction.
+Ontology-Based Deep Restricted Boltzmann Machine.
+Social Restricted Boltzmann Machine: Human Behavior Prediction in Health Social Networks.
+Ontology-based deep learning for human behavior prediction in health social networks.
+Chain Based RNN for Relation Classification.
+Ontology-Based Deep Restricted Boltzmann Machine.
+Representing 3D shapes based on implicit surface functions learned from RBF neural networks.
+Neural network shape: Organ shape representation with radial basis function neural networks.
+Age estimation via unsupervised neural networks.
+2D-3D Face Recognition via Restricted Boltzmann Machines.
+Automating Microarray Classification Using General Regression Neural Networks.
+Text summarization techniques: SVM versus neural networks.
+Chaotic Neural Network for Biometric Pattern Recognition.
+Dealing with biometric multi-dimensionality through chaotic neural network methodology.
+On-demand chaotic neural network for broadcast scheduling problem.
+On-Demand Chaotic Neural Network for Broadcast Scheduling Problem.
+Text summarization techniques: SVM versus neural networks.
+A Comparative Study of Artificial Neural Networks and Info-Fuzzy Networks as Automated Oracles in Software Testing.
+Using a neural network in the software testing process.
+Granular neural networks for numerical-linguistic data fusion and knowledge discovery.
+Compression and Expansion of Fuzzy Rule Bases by Using Crisp-fuzzy Neural Networks.
+Efficient Genetic Algorithms for Training Layered Feedback Neural Networks.
+Content-Based Image Categorization and Retrieval using Neural Networks.
+A Comparative Study of Artificial Neural Networks and Info-Fuzzy Networks as Automated Oracles in Software Testing.
+Using a neural network in the software testing process.
+Granular neural networks for numerical-linguistic data fusion and knowledge discovery.
+Compression and Expansion of Fuzzy Rule Bases by Using Crisp-fuzzy Neural Networks.
+Efficient Genetic Algorithms for Training Layered Feedback Neural Networks.
+Convergent reinforcement learning control with neural networks and continuous action search.
+Classification of EEG during imagined mental tasks by forecasting with Elman Recurrent Neural Networks.
+Robust Reinforcement Learning Control Using Integral Quadratic Constraints for Recurrent Neural Networks.
+Behavioral Cloning of Student Pilots with Modular Neural Networks.
+EEG-based Cognitive Task Classification with ICA and Neural Networks.
+Synthesis of reinforcement learning, neural networks and PI control applied to a simulated heating coil.
+Determining Mental State from EEG Signals Using Parallel Implementations of Neural Networks.
+EEG as a means of communication: preliminary experiments in EEG analysis using neural networks.
+Tower of Hanoi with Connectionist Networks: Learning New Features.
+Behavioral Cloning of Student Pilots with Modular Neural Networks.
+Using Neural Networks in Reliability Prediction.
+Prediction of Software Reliability Using Connectionist Models.
+The scaling problem in neural networks for software reliability prediction.
+Prediction of software reliability using neural networks.
+A 1.5-D Architecture for Back-Propagation Training.
+Adding Learning to the Cellular Development of Neural Networks: Evolution and the Baldwin Effect.
+Using Neural Networks in Reliability Prediction.
+Prediction of Software Reliability Using Connectionist Models.
+Genetic Reinforcement Learning with Multilayer Neural Networks.
+Prediction of software reliability using neural networks.
+Genetic algorithms and neural networks: optimizing connections and connectivity.
+Optimizing Neural Networks Using FasterMore Accurate Genetic Search.
+A neural network based real-time gaze tracker.
+Policing Function in ATM Network Using Multi-Layer Neural Network.
+Assessing Neural Networks as Guides for Testing Activities.
+On the Use of Neural Networks to Guide Software Testing Activities.
+Investigating LSTMs for Joint Extraction of Opinion Entities and Relations.
+Opinion Mining with Deep Recurrent Neural Networks.
+Deep Recursive Neural Networks for Compositionality in Language.
+SimCompass: Using Deep Learning Word Embeddings to Assess Cross-level Similarity.
+Modeling Compositionality with Multiplicative Recurrent Neural Networks.
+Bidirectional Recursive Neural Networks for Token-Level Labeling with Structure.
+A memory-efficient routing method for large-scale spiking neural networks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks.
+A predictive modeling engine using neural networks: Diabetes management from sensor and activity data.
+A Non-parametric Approach to Detect Epileptogenic Lesions using Restricted Boltzmann Machines.
+Structured Recurrent Temporal Restricted Boltzmann Machines.
+Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models.
+Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus.
+Batch normalized recurrent neural networks.
+Unitary Evolution Recurrent Neural Networks.
+Deconstructing the Ladder Network Architecture.
+Noisy Activation Functions.
+BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.
+Towards a Biologically Plausible Backprop.
+Architectural Complexity Measures of Recurrent Neural Networks.
+Noisy Activation Functions.
+Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus.
+Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation.
+Drawing and Recognizing Chinese Characters with Recurrent Neural Network.
+On Multiplicative Integration with Recurrent Neural Networks.
+Recurrent Neural Networks With Limited Numerical Precision.
+Hierarchical Multiscale Recurrent Neural Networks.
+Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations.
+Editorial introduction to the Neural Networks special issue on Deep Learning of Representations.
+Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding.
+IAPR keynote lecture IV: Deep learning.
+Gated Feedback Recurrent Neural Networks.
+BinaryConnect: Training Deep Neural Networks with binary weights during propagations.
+Artificial Neural Networks Applied to Taxi Destination Prediction.
+Gated Feedback Recurrent Neural Networks.
+Towards Biologically Plausible Deep Learning.
+RMSProp and equilibrated adaptive learning rates for non-convex optimization.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks.
+Brain Tumor Segmentation with Deep Neural Networks.
+Blocks and Fuel: Frameworks for deep learning.
+Hierarchical Neural Network Generative Models for Movie Dialogues.
+Artificial Neural Networks Applied to Taxi Destination Prediction.
+Batch Normalized Recurrent Neural Networks.
+Early Inference in Energy-Based Models Approximates Back-Propagation.
+Neural Networks with Few Multiplications.
+BinaryConnect: Training Deep Neural Networks with binary weights during propagations.
+Deconstructing the Ladder Network Architecture.
+Unitary Evolution Recurrent Neural Networks.
+ReSeg: A Recurrent Neural Network for Object Segmentation.
+Conditioning and time representation in long short-term memory networks.
+What regularized auto-encoders learn from the data-generating distribution.
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.
+Deep learning and cultural evolution.
+Deep Generative Stochastic Networks Trainable by Backprop.
+Marginalized Denoising Auto-encoders for Nonlinear Representations.
+Scaling up deep learning.
+On the Number of Linear Regions of Deep Neural Networks.
+How transferable are features in deep neural networks?
+Learned-Norm Pooling for Deep Feedforward and Recurrent Neural Networks.
+On the Number of Linear Regions of Deep Neural Networks.
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.
+Generative Adversarial Networks.
+Exponentially Increasing the Capacity-to-Computation Ratio for Conditional Computation in Deep Learning.
+How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation.
+Deep Directed Generative Autoencoders.
+How transferable are features in deep neural networks?
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
+Low precision arithmetic for deep learning.
+Combining modality specific deep neural networks for emotion recognition in video.
+On the difficulty of training recurrent neural networks.
+Audio Chord Recognition with Recurrent Neural Networks.
+Multi-Prediction Deep Boltzmann Machines.
+Generalized Denoising Auto-Encoders as Generative Models.
+Deep Learning of Representations: Looking Forward.
+Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines.
+Joint Training Deep Boltzmann Machines for Classification.
+Big Neural Networks Waste Capacity.
+Deep Learning of Representations: Looking Forward.
+Generalized Denoising Auto-Encoders as Generative Models.
+Deep Generative Stochastic Networks Trainable by Backprop.
+Learned-norm pooling for deep neural networks.
+How to Construct Deep Recurrent Neural Networks.
+An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks.
+Detonation Classification from acoustic Signature with the Restricted Boltzmann Machine.
+Learning Algorithms for the Classification Restricted Boltzmann Machine.
+Deep Learning for NLP (without Magic).
+A Generative Process for Contractive Auto-Encoders.
+Deep Learning of Representations for Unsupervised and Transfer Learning.
+Unsupervised and Transfer Learning Challenge: a Deep Learning Approach.
+On Training Deep Boltzmann Machines.
+Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives.
+Implicit Density Estimation by Local Moment Matching to Sample from Auto-Encoders.
+Regularized Auto-Encoders Estimate Local Statistics.
+Theano: new features and speed improvements.
+Joint Training of Deep Boltzmann Machines.
+Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach.
+Contractive Auto-Encoders: Explicit Invariance During Feature Extraction.
+Higher Order Contractive Auto-Encoder.
+A Spike and Slab Restricted Boltzmann Machine.
+Deep Sparse Rectifier Neural Networks.
+Autotagging music with conditional restricted Boltzmann machines.
+Why Does Unsupervised Pre-training Help Deep Learning?
+Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion.
+Deep Belief Networks Are Compact Universal Approximators.
+Tractable Multivariate Binary Density Estimation and the Restricted Boltzmann Forest.
+Tempered Markov Chain Monte Carlo for training of Restricted Boltzmann Machines.
+Why Does Unsupervised Pre-training Help Deep Learning?
+Understanding the difficulty of training deep feedforward neural networks.
+Exploring Strategies for Training Deep Neural Networks.
+Incorporating Functional Knowledge in Neural Networks.
+Representational Power of Restricted Boltzmann Machines and Deep Belief Networks.
+Classification using discriminative restricted Boltzmann machines.
+Extracting and composing robust features with denoising autoencoders.
+Continuous Neural Networks.
+Hierarchical Probabilistic Neural Network Language Model.
+Convex Neural Networks.
+Cost functions and model combination for VaR-based asset allocation using neural networks.
+Boosting Neural Networks.
+Taking on the curse of dimensionality in joint distributions using neural networks.
+Probabilistic Neural Network Models for Sequential Data.
+Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks.
+AdaBoosting Neural Networks: Application to on-line Character Recognition.
+Training Methods for Adaptive Boosting of Neural Networks.
+Recurrent Neural Networks for Missing or Asynchronous Data.
+Hierarchical Recurrent Neural Networks for Long-Term Dependencies.
+Use of Genetic Programming for the Search of a New Learning Rule for Neural Networks.
+A Connectionist Approach to Speech Recognition.
+Credit Assignment through Time: Alternatives to Backpropagation.
+Globally Trained Handwritten Word Recognizer Using Spatial Representation, Convolutional Neural Networks, and Hidden Markov Models.
+Learning the dynamic nature of speech with back-propagation for sequences.
+Phonetically motivated acoustic parameters for continuous speech recognition using artificial neural networks.
+Global optimization of a neural network-hidden Markov model hybrid.
+Phonetically motivated acoustic parameters for continuous speech recognition using artificial neural networks.
+A comparative study on hybrid acoustic phonetic decoders based on artificial neural networks.
+Neural Network - Gaussian Mixture Hybrid for Speech Recognition or Density Estimation.
+Efficient recognition of immunoglobulin domains from amino acid sequences using a neural network.
+Phonetically-based multi-layered neural networks for vowel classification.
+Speaker Independent Speech Recognition with Neural Networks and Speech Knowledge.
+A Neural Network to Detect Homologies in Proteins.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+Artificial Neural Networks Applied to Taxi Destination Prediction.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+Artificial Neural Networks Applied to Taxi Destination Prediction.
+Combining modality specific deep neural networks for emotion recognition in video.
+Semi Supervised Autoencoders: Better Focusing Model Capacity during Feature Extraction.
+Audio Chord Recognition with Recurrent Neural Networks.
+Generalized Denoising Auto-Encoders as Generative Models.
+Generalized Denoising Auto-Encoders as Generative Models.
+A Generative Process for Contractive Auto-Encoders.
+Unsupervised and Transfer Learning Challenge: a Deep Learning Approach.
+Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives.
+A Connection Between Score Matching and Denoising Autoencoders.
+Contractive Auto-Encoders: Explicit Invariance During Feature Extraction.
+Higher Order Contractive Auto-Encoder.
+Why Does Unsupervised Pre-training Help Deep Learning?
+Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion.
+Tempered Markov Chain Monte Carlo for training of Restricted Boltzmann Machines.
+Why Does Unsupervised Pre-training Help Deep Learning?
+Deep Learning using Robust Interdependent Codes.
+Extracting and composing robust features with denoising autoencoders.
+Convex Neural Networks.
+Scaffolding Problem Solving with Annotated, Worked-Out Examples to Promote Deep Learning.
+Recognizing Functions in Binaries with Neural Networks.
+Explanation Based Learning: A Comparison of Symbolic and Neural Network Approaches.
+Integrating Inductive Neural Network Learning and Explanation-Based Learning.
+Explanation-Based Neural Network Learning for Robot Control.
+A neural network classifier capable of recognizing the patterns of all major subcellular structures in fluorescence microscope images of HeLa cells.
+Greedy, Joint Syntactic-Semantic Parsing with Stack LSTMs.
+Training with Exploration Improves a Greedy Stack LSTM Parser.
+Recurrent Neural Network Grammars.
+Recurrent Neural Network Grammars.
+Segmental Recurrent Neural Networks for End-to-end Speech Recognition.
+Training with Exploration Improves a Greedy Stack-LSTM Parser.
+Greedy, Joint Syntactic-Semantic Parsing with Stack LSTMs.
+Transition-Based Dependency Parsing with Stack Long Short-Term Memory.
+Improved Transition-based Parsing by Modeling Characters instead of Words with LSTMs.
+Transition-Based Dependency Parsing with Stack Long Short-Term Memory.
+Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs.
+Segmental Recurrent Neural Networks.
+Conditional Random Field Autoencoders for Unsupervised Structured Prediction.
+Conditional Random Field Autoencoders for Unsupervised Structured Prediction.
+Internal reinforcement in a connectionist genetic programming approach.
+Harnessing Deep Neural Networks with Logic Rules.
+Deep Neural Networks with Massive Learned Knowledge.
+GeePS: scalable deep learning on distributed GPUs with a GPU-specialized parameter server.
+Harnessing Deep Neural Networks with Logic Rules.
+Diversifying Restricted Boltzmann Machine for Document Modeling.
+On the Generalization Error Bounds of Neural Networks under Diversity-Inducing Mutual Angular Regularization.
+Distributed Training of Deep Neural Networks with Theoretical Analysis: Under SSP Setting.
+Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines.
+Deep Reinforcement Learning for Mention-Ranking Coreference Models.
+Understanding Human Language: Can NLP and Deep Learning Help?
+Deep Reinforcement Learning for Mention-Ranking Coreference Models.
+Computational Linguistics and Deep Learning.
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.
+Tree-Structured Composition in Neural Networks without Tree-Structured Architectures.
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.
+Tree-structured composition in neural networks without tree-structured architectures.
+A Fast and Accurate Dependency Parser using Neural Networks.
+Global Belief Recursive Neural Networks.
+Recursive Neural Networks for Learning Logical Semantics.
+Better Word Representations with Recursive Neural Networks for Morphology.
+Deep Learning for NLP (without Magic).
+Relaxations for inference in restricted Boltzmann machines.
+Deep Learning for NLP (without Magic).
+Convolutional-Recursive Deep Learning for 3D Object Classification.
+Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions.
+Parsing Natural Scenes and Natural Language with Recursive Neural Networks.
+Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection.
+Similarity Analysis of Video Sequences Using an Artificial Neural Network.
+A Self-Organizing Neural Network for Hierarchical Range Image Segmentation.
+Hourly Solar Radiation Forecasting Through Model Averaged Neural Networks and Alternating Model Trees.
+A genetic algorithm to refine input data selection for air temperature prediction using artificial neural networks.
+Polymer property prediction and optimization using neural networks.
+An Evolved Neural Network/HC Hybrid for Tablature Creation in GA-based Guitar Arranging.
+Designing Polymer Blends Using Neural Networks, Genetic Algorithms, and Markov Chains.
+Predicting Aflatoxin Contamination in Peanuts: A Genetic Algorithm/Neural Network Approach.
+Aflatoxin Prediction Using a GA Trained Neural Network.
+Using a Genetic Algorithm to Select Parameters for a Neural Network That Predicts Aflatoxin Contamination in Peanuts.
+Object Detection and Localization Using Deep Convolutional Networks with Softmax Activation and Multi-class Log Loss.
+Estimating Ejection Fraction and Left Ventricle Volume Using Deep Convolutional Networks.
+Assessing Neural Networks as Guides for Testing Activities.
+On the Use of Neural Networks to Guide Software Testing Activities.
+Going deeper in facial expression recognition using deep neural networks.
+Going Deeper in Facial Expression Recognition using Deep Neural Networks.
+Nonlinear Model Predictive Control With Neural Network Optimization for Autonomous Autorotation of Small Unmanned Helicopters.
+Cognition and the computational power of connectionist networks.
+Strong Semantic Systematicity from Hebbian Connectionist Learning.
+Deep Learning of Appearance Models for Online Object Tracking.
+Structure Inference Machines: Recurrent Neural Networks for Analyzing Relations in Group Activity Recognition.
+Learning Structured Inference Neural Networks with Label Relations.
+Stacks of convolutional Restricted Boltzmann Machines for shift-invariant feature learning.
+Assessing Neural Networks as Guides for Testing Activities.
+On the Use of Neural Networks to Guide Software Testing Activities.
+Predicting Geo-informative Attributes in Large-Scale Image Collections Using Convolutional Neural Networks.
+Customer Targeting: A Neural Network Approach Guided by Genetic Algorithms.
+Evidence of hyperplanes in the genetic learning of neural networks.
+Detection of Rogue Certificates from Trusted Certificate Authorities Using Deep Neural Networks.
+Meter as Mechanism: A Neural Network Model that Learns Metrical Patterns.
+Transfer in a Connectionist Model of the Acquisition of Morphology.
+Acquiring Receptive Morphology: A Connectionist Model.
+Modularity In A Connectionist Model Of Morphology Acquisition.
+Acquiring Receptive Morphology: A Connectionist Model.
+Modularity in a Connectionist Model of Morphology Acquisition.
+Phonology as a byproduct of learning to recognize and produce words: a connectionist model.
+Sequencing in a connectionist model of language processing.
+DeepTutor: An Effective, Online Intelligent Tutoring System That Promotes Deep Learning.
+Finding MAPs using strongly equivalent high order recurrent symmetric connectionist networks.
+Neural networks approaches for discovering the learnable correlation between gene function and gene expression in mouse.
+Connectionist Approaches for Predicting Mouse Gene Function from Gene Expression.
+Assessing Threat of Adversarial Examples on Deep Neural Networks.
+Deep Neural Networks Based Recognition of Plant Diseases by Leaf Image Classification.
+Memory and Information Processing in Recurrent Neural Networks.
+Isolated instrument transcription using a deep belief network.
+Cell Counting by Regression Using Convolutional Neural Network.
+Recurrent Fully Convolutional Networks for Video Segmentation.
+Measure optimized cost-sensitive neural network ensemble for multiclass imbalance data learning.
+A novel cost sensitive neural network ensemble for multiclass imbalance data learning.
+A PSO-Based Cost-Sensitive Neural Network for Imbalanced Data Classification.
+Learning Spatiotemporal Features with 3D Convolutional Networks.
+Dynamic Adaptive Neural Network Array.
+Extracting typical users' moving patterns using deep learning.
+Continuous Information Representation and Processing In Natural and Artificial Neural Networks.
+Characteristics of connectionist knowledge representation.
+An evolutionary optimization framework for neural networks and neuromorphic architectures.
+Detection of neuron membranes in electron microscopy images using a serial neural network architecture.
+Evolving plastic neural networks with novelty search.
+Neural Networks for Selective Vehicle Routing Heuristics.
+A two stage neural network-based personal identification system using handprint.
+Iris Verification Using Wavelet Moments and Neural Network.
+A Novel Color Image Watermarking Method Based on Genetic Algorithm and Neural Networks.
+A Novel Color Image Watermarking Method Based on Genetic Algorithm and Hybrid Neural Networks.
+A Novel License Plate Location Method Based on Neural Network and Saturation Information.
+A Firearm Identification System Based on Neural Network.

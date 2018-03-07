@@ -4,7 +4,9 @@ Replication data and code for "Prestige drives epistemic inequality in the diffu
 
 ##### `cache`
 
-Contains [pickles](https://docs.python.org/2/library/pickle.html) of epidemic size and length. The script `summary.py` will return how many simulations were run for each transmission probability, and each particular starting node. The files `updatebusinessresults.py`, `updatecompsciresults.py`, and `updatehistoryresults.py`, will add more runs of each epidemic simulation to the files in `cache`.
+Contains [pickles](https://docs.python.org/2/library/pickle.html) of epidemic size and length. The script `summary.py` will return how many simulations were run for each transmission probability, and each particular starting node. Each cache of the SI model contains 1000 trials for each node, transmission probability pair. Each cache of the SI model allowing for random jumps contains 500 trials for each node, transmission probability pair. 
+
+The files `updatebusinessresults.py`, `updatecompsciresults.py`, and `updatehistoryresults.py` will add more runs of each epidemic simulation to the files in `cache`.
 
 ##### `data`
 
@@ -12,11 +14,15 @@ Contains the edge and vertex lists of the [faculty hiring networks](http://tuval
 
 ##### `epidemic`
 
-The script `epidemic.py` describes the simulation we've implemented.
+The script `epidemic.py` describes the SI simulation we've implemented.
 
 ##### `imports`
 
 The files `importbusiness.py`, `importcompsci.py`, and `importhistory.py` generate [networkx](https://networkx.github.io) networks and parse prestige metadata from the edge and vertex lists from `data`.
+
+##### `publications`
+
+The files called `deep_learning_titles.txt`, `incremental_titles.txt`, and `topic_modeling_titles.txt` contain the titles extracted under our choice of keywords for each topic. The pickle files `deep_learning.p`, `incremental.p`, and `topic_modeling.p` contain the fraction of transmissions due to hiring under 10,000 permutation tests. The notebook `spread_of_research_ideas.ipynb` documents our permutation test.
 
 ##### `results`
 
