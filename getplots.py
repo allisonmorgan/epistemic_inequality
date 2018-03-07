@@ -5,9 +5,9 @@ from scipy.optimize import curve_fit
 from scipy.stats import linregress
 from matplotlib.colors import LinearSegmentedColormap, ListedColormap
 
-from importcompsci import school_metadata as meta_cs, faculty_graph as g_cs, faculty_graph_weighted as gw_cs
-from importhistory import school_metadata as meta_his, faculty_graph as g_his, faculty_graph_weighted as gw_his
-from importbusiness import school_metadata as meta_busi, faculty_graph as g_busi, faculty_graph_weighted as gw_busi
+from imports.importcompsci import school_metadata as meta_cs, faculty_graph as g_cs, faculty_graph_weighted as gw_cs
+from imports.importhistory import school_metadata as meta_his, faculty_graph as g_his, faculty_graph_weighted as gw_his
+from imports.importbusiness import school_metadata as meta_busi, faculty_graph as g_busi, faculty_graph_weighted as gw_busi
 
 import math
 import matplotlib.pyplot as plt
@@ -42,7 +42,8 @@ def avg_geodesic_path_length_from(from_node, graph):
                              for target in graph.nodes()
                              if target is not from_node
                              and nx.has_path(graph, from_node, target)]
-    return np.average(geodesic_path_lengths)
+    if len(geodesic_path_lengths) == 0.0: return 0.0
+    return np.nanmean(geodesic_path_lengths)
 
 def graph_of_dir(directory):
     if "CS" in directory:
@@ -69,7 +70,9 @@ def meta_of_dir(directory):
 
 
 def normalize(graph, node, length):
-    return float(length) / avg_geodesic_path_length_from(node, graph)
+    avg_geodesic_path_length = avg_geodesic_path_length_from(node, graph)
+    if avg_geodesic_path_length == 0 : return np.nan
+    return float(length) / avg_geodesic_path_length
 
 def average_across_infection_probability(tuples):
     dictionary = defaultdict(list)
@@ -93,14 +96,17 @@ def plot_centrality():
     fig = plt.figure(figsize=(6.0, 4.))
     ax = plt.gca()
 
-    for i, (faculty_graph, school_metadata, dept) in enumerate([(g_cs, meta_cs, "Computer Science")]):#, (g_busi, meta_busi, "Business"), (g_his, meta_his, "History")]):
+    for i, (faculty_graph, school_metadata, dept) in enumerate([(g_cs, meta_cs, "Computer Science")]):
         x = []; y = []
         max_pi = 0
         max_c = 0
         ccs = sorted(nx.strongly_connected_components(faculty_graph), key=len, reverse=True)
         cc = ccs[0]
         for vertex in cc:
-            c = np.mean(nx.single_source_shortest_path_length(faculty_graph, source=vertex).values())#/(len(faculty_graph.nodes())*(len(faculty_graph.nodes())-1))
+            c = 0
+            path_lengths = nx.single_source_shortest_path_length(faculty_graph, source=vertex).values()
+            if len(path_lengths) > 0:
+                c = np.nanmean(path_lengths)
             label = school_metadata[vertex]['institution']
             x.append(school_metadata[vertex]['pi'])
             y.append(c)
@@ -120,7 +126,7 @@ def plot_centrality():
                     label = 'New Mexico\nState University'
                 plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), xytext=(25, -100), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'ls': 'dashed'}, fontsize = plot_utils.LEGEND_SIZE)
 
-        ax.scatter(x, y, edgecolor='w', clip_on=False, zorder=1, color=next(colors), s=28) #marker=markers[i])
+        ax.scatter(x, y, edgecolor='w', clip_on=False, zorder=1, color=next(colors), s=28)
 
         slope, intercept, r_value, p_value, std_err = linregress(x, y)
        	plt.plot([0, max(x)], [slope*i + intercept for i in [0, max(x)]], color=plot_utils.ALMOST_BLACK, label='Slope: %.4f\n$R^{2}$: %.4f' % (slope, r_value**2))
@@ -191,7 +197,7 @@ def plot_grouped_adjacency():
   plt.savefig("results/grouped_adjacency.eps", format='eps', dpi=1000)
   plt.clf()
 
-# epidemic size versus prestige for various infection probabilities p
+# Epidemic size versus prestige for various infection probabilities p
 def plot_si_prestige_size(cache_dirs):
     fig, ax = plt.subplots(1, 1, figsize=(6.0, 4.0), sharey=True)
 
@@ -235,7 +241,7 @@ def plot_si_prestige_size(cache_dirs):
 
         max_pi = max(x)
         if p > 0:
-            # fit a logistic curve to this
+            # Fit a logistic curve to this
             y = [length for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
 
             popt, pcov = curve_fit(curve, np.array(x), np.array(y), bounds=(0., [1., 2., 200.]), maxfev=100)
@@ -266,8 +272,9 @@ def plot_si_prestige_length(cache_dirs, ylim=(0,5)):
                 continue
 
             avg = np.average(lengths)
-            if not np.isnan(avg) and not np.isinf(avg):
-                result = (meta[node]["pi"], normalize(graph, node, avg))
+            y = normalize(graph, node, avg)
+            if not np.isnan(avg) and not np.isinf(avg) and not np.isnan(y):
+                result = (meta[node]["pi"], y)
                 results_length[p].append(result)
 
         results_length[p] = sorted(results_length[p], key=lambda x: x[0])
@@ -295,13 +302,13 @@ def plot_si_prestige_length(cache_dirs, ylim=(0,5)):
         max_pi = max(x)
         y = np.array([length for (pi, length) in data if not np.isnan(length) and not np.isinf(length)])
 
-        # fit a linear curve to this
+        # Fit a linear curve to this
         # regr = LinearRegression()
         # regr.fit(x.reshape(-1, 1), y.reshape(-1, 1))
         # interval = np.array([min(x), max(x)])
         # ax.plot(interval, interval*regr.coef_[0] + regr.intercept_, color=c)
 
-        # fit a LOWESS curve to this
+        # Fit a LOWESS curve to this
         lowess = sm.nonparametric.lowess
         z = lowess(y, x, return_sorted=False)
         ax.plot(x, z, color=c)
@@ -350,7 +357,7 @@ def plot_random_hop_size(cache_dirs, ylim=(0, 1)):
         x = [pi for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
         max_pi = max(x)
         if p > 0:
-            # fit a logistic curve to this
+            # Fit a logistic curve to this
             y = [length for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
 
             popt, pcov = curve_fit(curve, np.array(x), np.array(y), bounds=(0., [1., 2., 200.]))
@@ -368,7 +375,7 @@ def plot_random_hop_size(cache_dirs, ylim=(0, 1)):
     plt.ylim(ylim)
     plt.savefig('results/size-results-of-ALL-SI-random-hops.eps', bbox_inches='tight', format='eps', dpi=1000)
 
-# epidemic size versus infection probability for all institutions
+# Epidemic size versus infection probability for all institutions
 def plot_size_infection_probability(cache_dirs, threshold=0.00, bins=range(0, 100, 10)):
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12.0, 4.0), sharey=True)
 
@@ -389,7 +396,7 @@ def plot_size_infection_probability(cache_dirs, threshold=0.00, bins=range(0, 10
                 result = (p, avg)
                 results_size[pi].append(result)
 
-    # remove data below a threshold
+    # Remove data below a threshold
     for pi, data in results_size.copy().items():
         trend = [size for _, size in data]
         if max(trend) <= threshold:
@@ -397,7 +404,7 @@ def plot_size_infection_probability(cache_dirs, threshold=0.00, bins=range(0, 10
         else:
             results_size[pi] = sorted(data, key=lambda x: x[0])
 
-    # bin the remaining data
+    # Bin the remaining data
     if bins != None:
         left_endpoint = bins[0]
         percentiles = np.percentile(results_size.keys(), bins[1:])
@@ -422,7 +429,7 @@ def plot_size_infection_probability(cache_dirs, threshold=0.00, bins=range(0, 10
 
         ax1.scatter(*zip(*data), color=c, label='{0}'.format(int(pi*10)), edgecolor='w', clip_on=False, zorder=1, s=28)
 
-        # fit a logistic curve to this
+        # Fit a logistic curve to this
         x = [p for (p, size) in data if not np.isnan(size) and not np.isinf(size)]
         y = [size for (p, size) in data if not np.isnan(size) and not np.isinf(size)]
         popt, pcov = curve_fit(curve, np.array(x), np.array(y), bounds=([0., -150., -5.], [1., 0., 5.]))
@@ -447,7 +454,7 @@ def plot_size_infection_probability(cache_dirs, threshold=0.00, bins=range(0, 10
         elif pi in [4, 5, 6, 7, 8, 9]:
             ax2.scatter(x, y, color=c, label='{0}th Decile'.format(int(pi)), edgecolor='w', clip_on=False, zorder=1, s=28)
 
-    # fit a curve to the whole thing!
+    # Fit a curve to the whole thing!
     def scale_y(scaled_x): return (1.0 / (1.0 + math.exp(r*(k + math.log(scaled_x)))))
     x_total = np.arange(0.01, 10.01, 0.01)
     ax2.plot(x_total, [scale_y(i) for i in x_total], color='black', label="Generic")
