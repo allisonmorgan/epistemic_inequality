@@ -9,6 +9,9 @@ from imports.importcompsci import school_metadata as meta_cs, faculty_graph as g
 from imports.importhistory import school_metadata as meta_his, faculty_graph as g_his, faculty_graph_weighted as gw_his
 from imports.importbusiness import school_metadata as meta_busi, faculty_graph as g_busi, faculty_graph_weighted as gw_busi
 
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
 import math
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
@@ -59,7 +62,6 @@ def graph_of_dir(directory):
             return gw_busi
         return g_busi
 
-
 def meta_of_dir(directory):
     if "CS" in directory:
         return meta_cs
@@ -67,7 +69,6 @@ def meta_of_dir(directory):
         return meta_his
     if "BUSI" in directory:
         return meta_busi
-
 
 def normalize(graph, node, length):
     avg_geodesic_path_length = avg_geodesic_path_length_from(node, graph)
@@ -140,7 +141,6 @@ def plot_centrality():
     plt.legend(loc='upper left', fontsize=plot_utils.LEGEND_SIZE, frameon=False)
     plt.savefig("results/centrality.eps", bbox_inches='tight', format='eps', dpi=1000)
     plt.clf()
-
 
 def plot_grouped_adjacency():
   fig, ax = plt.subplots(1, 1, figsize=(6, 4))
