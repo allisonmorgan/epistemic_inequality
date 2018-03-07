@@ -22,7 +22,7 @@ The files `importbusiness.py`, `importcompsci.py`, and `importhistory.py` genera
 
 ##### `publications`
 
-The files called `deep_learning_titles.txt`, `incremental_titles.txt`, and `topic_modeling_titles.txt` contain the titles extracted under our choice of keywords for each topic. The pickle files `deep_learning.p`, `incremental.p`, and `topic_modeling.p` contain the fraction of transmissions due to hiring under 10,000 permutation tests. The notebook `spread_of_research_ideas.ipynb` documents our permutation test.
+The files called `deep_learning_titles.txt`, `incremental_titles.txt`, and `topic_modeling_titles.txt` contain the titles extracted under our choice of keywords for each topic. These titles have been selected from the computer science bibliography, [dblp](http://dblp.uni-trier.de). This data is available under the [Open Data Commons ODC-BY 1.0](http://dblp.uni-trier.de/faq/Under+what+license+is+the+data+from+dblp+released.html) license. The pickle files `deep_learning.p`, `incremental.p`, and `topic_modeling.p` contain the fraction of transmissions due to hiring under 10,000 permutation tests. The notebook `spread_of_research_ideas.ipynb` documents our permutation test.
 
 ##### `results`
 
