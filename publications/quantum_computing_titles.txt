@@ -1,0 +1,167 @@
+Quantum Algorithms For Simon'S Problem Over General Groups.
+Experimental Quantum Cryptography: The Dawn Of A New Era For Quantum Cryptography: The Experimental Prototype Is Working].
+Mceliece And Niederreiter Cryptosystems That Resist Quantum Fourier Sampling Attacks.
+Quantum Algorithms For Solvable Groups.
+Efficient Clifford+T Approximation Of Single-Qubit Operators.
+Interconnection Networks For Scalable Quantum Computers.
+Mixing And Decoherence In Continuous-Time Quantum Walks On Cycles.
+One-Dimensional Quantum Walks With Absorbing Boundaries.
+Exponential Algorithmic Speedup By A Quantum Walk.
+Exact Classical Simulation Of The Ghz Distribution.
+New Trends In Quantum Computing.
+Quantum Walks On The Hypercube.
+Distributed Measurement-Based Quantum Computation.
+Reconfigurable Bdd Based Quantum Circuits.
+Lower Bounds On The Deterministic And Quantum Communication Complexities Of Hamming-Distance Problems.
+A Quantum Cad Accelerator Based On Grover'S Algorithm For Finding The Minimum Fixed Polarity Reed-Muller Form.
+The Effect Of Communication Costs In Solid-State Quantum Computing Architectures.
+The Power Of Basis Selection In Fourier Sampling: Hidden Subgroup Problems In Affine Groups.
+Behavioral Model Of Integrated Qubit Gates For Quantum Reversible Logic Design.
+Quantum Fourier Transforms And The Complexity Of Link Invariants For Quantum Doubles Of Finite Groups.
+Pseudorandom Generators And The Bqp Vs. Ph Problem.
+Improving Gate-Level Simulation Of Quantum Circuits.
+Qmdd: A Decision Diagram Structure For Reversible And Quantum Circuits.
+New Horizons In Quantum Information Processing.
+Lower Bounds On The Deterministic And Quantum Communication Complexity Of Hamming Distance.
+Quantum Cryptography Ii: How To Re-Use A One-Time Pad Safely Even If P=Np.
+Simulating Quantum Computation By Contracting Tensor Networks.
+Quantum Cryptography: Public Key Distribution And Coin Tossing.
+Quantum Cryptography With Imperfect Apparatus.
+Scaffcc: A Framework For Compilation And Analysis Of Quantum Computing Programs.
+Mixing Doubly Stochastic Quantum Channels With The Completely Depolarizing Channel.
+Quantum Cryptography, Or Unforgeable Subway Tokens.
+Interaction In Quantum Communication Complexity.
+Experimental Quantum Cryptography.
+Constant-Optimized Quantum Circuits For Modular Multiplication And Exponentiation.
+Asymptotically Optimal Circuits For Arbitrary N-Qubit Diagonal Comutations.
+Smaller Two-Qubit Circuits For Quantum Communication And Computation.
+Generic Quantum Fourier Transforms.
+Simulating Special But Natural Quantum Circuits.
+Qip = Pspace.
+Anonymous Quantum Communication - (Extended Abstract).
+An Exact Quantum Polynomial-Time Algorithm For Simon'S Problem.
+Quantum Computing And The Hunt For Hidden Symmetry.
+Quantum Computability.
+Tailoring Quantum Architectures To Implementation Style: A Quantum Computer For Mobile And Persistent Qubits.
+The Symmetric Group Defies Strong Fourier Sampling: Part Ii.
+Presheaf Models Of Quantum Computation: An Outline.
+Quantum Communication Complexity: A Survey.
+Novel Criteria For Deterministic Remote State Preparation Via The Entangled Six-Qubit State.
+Quantum Computing: The End Of Classical Cryptography?
+Anonymous Quantum Communication.
+Running A Quantum Circuit At The Speed Of Data.
+On The Quantum Query Complexity Of Local Search In Two And Three Dimensions.
+Stabilization Of Quantum Computations By Symmetrization.
+One Complexity Theorist'S View Of Quantum Computing.
+Recent Progress In Quantum Computational Complexity.
+Chisel-Q: Designing Quantum Circuits With A Scala Embedded Language.
+Interactive Proofs For Quantum Computation.
+Quantum Information Processing: The Good, The Bad And The Ugly.
+Quantum Algorithm For The Collision Problem.
+Multiparty Distributed Compression Of Quantum Information.
+Interaction In Quantum Communication And The Complexity Of Set Disjointness.
+Security Aspects Of Practical Quantum Cryptography.
+Universal Mixing Of Quantum Walk On Graphs.
+Lower Bounds On The Deterministic And Quantum Communication Complexity Of Hamming-Distance Problems.
+Efficient Quantum Tomography.
+Sample-Optimal Fourier Sampling In Any Constant Dimension.
+Remarks On Matsumoto And Amano'S Normal Form For Single-Qubit Clifford+T Operators.
+Generators And Relations For N-Qubit Clifford Operators.
+Non-Locality Distillation As Cryptographic Game.
+The Hidden Subgroup Problem And Quantum Computation Using Group Representations.
+A Decision Diagram Package For Reversible And Quantum Circuit Simulation.
+The One Way To Quantum Computation.
+The Search For Structure In Quantum Computation.
+On The Complexity Of Simulating Space-Bounded Quantum Computations.
+Space-Bounded Quantum Complexity.
+On The Cnot-Cost Of Toffoli Gates.
+Exact Classical Simulation Of The Quantum-Mechanical Ghz Distribution.
+Quantum Circuits: Fanout, Parity, And Counting.
+One-Dimensional Continuous-Time Quantum Walks.
+An Interpreter For Quantum Circuits.
+A Layered Software Architecture For Quantum Computing Design Tools.
+Guest Column: An Introduction To Quantum Information And Quantum Circuits 1.
+Lower Bounds On The Deterministic And Quantum Communication Complexity Of Hamna.
+Graph-Based Simulation Of Quantum Computation In The Density Matrix Representation.
+Fast Equivalence - Checking For Quantum Circuits.
+Advances In Quantum Computing Fault Tolerance And Testing.
+Limitations Of Single Coset States And Quantum Algorithms For Code Equivalence.
+Complexity Limitations On Quantum Computation.
+Sample-Optimal Fourier Sampling In Any Constant Dimension - Part I.
+25 Years Of Quantum Cryptography.
+Quantum Information Channels In Curved Spacetime.
+Universality Of Hybrid Quantum Gates And Synthesis Without Ancilla Qudits.
+Quantum Algorithms For The Subset-Sum Problem.
+Quantum Computing Without Entanglement.
+Efficient Inner-Product Algorithm For Stabilizer States.
+The Symmetric Group Defies Strong Fourier Sampling.
+Logical Methods In Quantum Information Theory.
+Optimal Realizations Of Simplified Toffoli Gates.
+On Mixing In Continuous-Time Quantum Walks On Some Circulant Graphs.
+Fearful Symmetries: Quantum Computing, Factoring, And Graph Isomorphism.
+A Lambda Calculus For Quantum Computation With Classical Control.
+Telepovm - A Generalized Quantum Teleportation Scheme.
+Checking Equivalence Of Quantum Circuits And States.
+Reasoning About General Quantum Programs Over Mixed States.
+Parallel Quantum Computation And Quantum Codes.
+The Power Of Quantum Fourier Sampling.
+An Optimal Quantum Algorithm To Approximate The Mean And Its Application For Approximating The Median Of A Set Of Points Over An Arbitrary Distance.
+What'S The Frequency, Kenneth?: Sublinear Fourier Sampling Off The Grid.
+The Power Of Strong Fourier Sampling: Quantum Algorithms For Affine Groups And Hidden Shifts.
+High-Performance Quidd-Based Simulation Of Quantum Circuits.
+Quantum Circuit Complexity.
+Applying Quantitative Semantics To Higher-Order Quantum Computing.
+Compiler Management Of Communication And Parallelism For Quantum Computation.
+Noisy Interactive Quantum Communication.
+Secure Signatures And Chosen Ciphertext Security In A Quantum Computing World.
+Quantum Feedback Control For Qubit-Qutrit Entanglement.
+Multiple Network Alignment On Quantum Computers.
+Quantum Algorithms For Simon'S Problem Over Nonabelian Groups.
+Modeling Quantum Computing In Haskell.
+Quantum Computing: A Great Science In The Making.
+Limitations Of Quantum Coset States For Graph Isomorphism.
+The Mceliece Cryptosystem Resists Quantum Fourier Sampling Attacks.
+On The Power Of Quantum Fourier Sampling.
+Quantum Circuits Of T-Depth One.
+Quantum Fourier Sampling, Code Equivalence, And The Quantum Security Of The Mceliece And Sidelnikov Cryptosystems.
+Post-Quantum Cryptography.
+Graph Properties And Circular Functions: How Low Can Quantum Query Complexity Go?
+The Symmetric Group Defies Strong Fourier Sampling: Part I.
+Fast Parallel Circuits For The Quantum Fourier Transform.
+Normal Subgroup Reconstruction And Quantum Computation Using Group Representations.
+Gate-Level Simulation Of Quantum Circuits.
+Quipper: Concrete Resource Estimation In Quantum Algorithms.
+Automated Generation Of Layout And Control For Quantum Circuits.
+An Update On Quantum Cryptography.
+Optimal Realizations Of Controlled Unitary Gates.
+Universal Programmable Quantum Circuit Schemes To Emulate An Operator.
+Interaction In Quantum Communication.
+Quantum Circuits For Gcd Computation With $O(N \Log N)$ Depth And O(N) Ancillae.
+Distributed Computing Column 55 Wttm 2013 Review, And Lower Bounds For Distributed Quantum Computing.
+Complexity Upper Bounds For Classical Locally Random Reductions Using A Quantum Computational Argument.
+One-Dimensional Quantum Walks.
+Alternative Computational Models: A Comparison Of Biomolecular And Quantum Computation.
+On The Geometry Of Stabilizer States.
+On The Impossibility Of Extracting Classical Randomness Using A Quantum Computer.
+Quantum Computation Relative To Oracles.
+Mixing Of Quantum Walk On Circulant Bunkbeds.
+Dense Quantum Communication Using Single- And Two-Particle Operations On Six-Particle Cluster State.
+Quantum Computational Complexity.
+A Universal Quantum Circuit Scheme For Finding Complex Eigenvalues Of Non-Unitary Matrices.
+Exact Synthesis Of Multi-Qubit Clifford+T Circuits.
+Bounds On The Quantum Satisfiability Threshold.
+Fast Equivalence-Checking For Quantum Circuits.
+Quantum Speed-Up For Unsupervised Learning.
+On The Formal Verification Of Optical Quantum Gates In Hol.
+The Weakness Of Ctc Qubits And The Power Of Approximate Counting.
+An Arbitrary Twoqubit Computation In 23 Elementary Gates Or Less.
+Quipu: High-Performance Simulation Of Quantum Circuits Using Stabilizer Frames.
+Continuous-Time Quantum Walks On The Symmetric Group.
+Quantum Cryptography.
+On The Hardness Of Distinguishing Mixed-State Quantum Computations.
+Near-Optimal Bounds On Bounded-Round Quantum Communication Complexity Of Disjointness.
+Quantum Circuits For Incompletely Specified Two-Qubit Operators.
+Simulation Of Quantum Circuits Via Stabilizer Frames.
+Strengths And Weaknesses Of Quantum Computing.
+A Universal Quantum Circuit Scheme For Finding Complex Eigenvalues.
+The Quantum Query Complexity Of Ac0.

@@ -1,120 +1,71 @@
-Complexity Models for Incremental Computation.
-A Complexity Theoretic Approach to Incremental Computation.
-Complexity Models for Incremental Computation.
-A Complexity Theoretic Approach to Incremental Computation.
-On the Importance of Tuning in Incremental View Maintenance: An Experience Case Study.
-Posse: A Framework for Optimizing Incremental View Maintenance at Data Warehouse.
-Self-Adjusting Trust and Selection for Web Services.
-Interacting real-time simulation models and reactive computational-physical systems.
-PS: Polygon Streams - A Distributed Architecture for Incremental Computation Applied to Graphics.
-PS: Polygon Streams - A Distributed Architecture for Incremental Computation Applied to Graphics.
-Complexity Models for Incremental Computation.
-A Complexity Theoretic Approach to Incremental Computation.
-A Self-Adjusting Algorithm for Byzantine Agreement.
-Automatic type inference via partial evaluation.
-Self-Adjusting Real-Time Search: A Summary of Results.
-Incremental Computation of Pseudo-Inverse of Laplacian.
-Incremental Computation of Pseudo-Inverse of Laplacian: Theory and Applications.
-Analyzing Self-Adjusting Linear List Algorithms with Deletions and Unsuccessful Searches.
-Analysing Deletions in Competitive Self-Adjusting Linear List.
-Unsuccessful Search in Self-Adjusting Data Structures.
-Randomized Competitive Algorithms for Successful and Unsuccessful Search on Self-adjusting Linear Lists.
-Self-Adjusting Multi-Way Search Trees.
-Toward the Partial Evaluation of CLP Languages.
-Partial Evaluation of a CLP Language.
+Self-Adjusting Trust And Selection For Web Services.
+Using Partial Evaluation To Enable Verification Of Concurrent Software.
+Self-Adjusting Top Trees.
+Self-Adjusting Heaps.
+Imperative Self-Adjusting Computation.
+Posse: A Framework For Optimizing Incremental View Maintenance At Data Warehouse.
+Ps: Polygon Streams - A Distributed Architecture For Incremental Computation Applied To Graphics.
+Incremental Computation Via Function Caching.
+A Self-Adjusting Algorithm For Byzantine Agreement.
+Interacting Real-Time Simulation Models And Reactive Computational-Physical Systems.
+Dbtoaster: A Sql Compiler For High-Performance Delta Processing In Main-Memory Databases.
+The Mre Wrapper Approach: Enabling Incremental View Maintenance Of Data Warehouses Defined On Multi-Relation Information Sources.
+Analyzing Self-Adjusting Linear List Algorithms With Deletions And Unsuccessful Searches.
+Utilizing Ids To Accelerate Incremental View Maintenance.
+Tern: A Self-Adjusting Thermal Model For Dynamic Resource Provisioning In Data Centers.
+Self-Adjusting Binary Trees.
+Results And Problems On Self-Adjusting Search Trees And Related Data Structures.
+How To Roll A Join: Asynchronous Incremental View Maintenance.
+Slicing And Partial Evaluation Of Corba Component Model Designs For Avionics System.
+Incremental Computation And Maintenance Of Temporal Aggregates.
+Compiling Self-Adjusting Programs With Continuations.
+Toward The Partial Evaluation Of Clp Languages.
+An Implementation Of Parametrized Partial Evaluation.
+Hybrid Partial Evaluation.
+Automatic Type Inference Via Partial Evaluation.
+Complexity Models For Incremental Computation.
+Incremental Computation Of Pseudo-Inverse Of Laplacian.
+An Introduction To Online And Offline Partial Evaluation Using A Simple Flowchart Language.
+Self-Adjusting Models For Semi-Supervised Learning In Partially Observed Settings.
+Tutorial On Online Partial Evaluation.
+Pipe: Personalizing Recommendations Via Partial Evaluation.
+A Categorized Bibliography On Incremental Computation.
+The Pairing Heap: A New Form Of Self-Adjusting Heap.
+Discovering Auxiliary Information For Incremental Computation.
+Deriving Production Rules For Incremental View Maintenance.
+Partial Evaluation Of Views.
+Self-Adjusting Of Ternary Search Tries Using Conditional Rotations And Randomized Heuristics.
+Automated Design Of Self-Adjusting Pipelines.
+Unsuccessful Search In Self-Adjusting Data Structures.
+Dbtoaster: Higher-Order Delta Processing For Dynamic, Frequently Fresh Views.
+Sacta: A Self-Adjusting Clock Tree Architecture For Adapting To Thermal-Induced Delay Variation.
+New Visualization And Debugging Technology For One-Way Dataflow Constraints.
+Foundations For Partial Evaluation Of Functional Programs With Computational Effects.
+Miniadapton: A Minimal Implementation Of Incremental Computation In Scheme.
+Dbtoaster: Agile Views For A Dynamic Data Management System.
+Pipe: Web Personalization By Partial Evaluation.
+The Partial Evaluation Approach To Information Personalization.
+Incremental Computation Of Pseudo-Inverse Of Laplacian: Theory And Applications.
+A Strategy For Partial Evaluation Of Views.
+A Self-Adjusting Clock Tree Architecture To Cope With Temperature Variations.
 A Self-Adjusting Dynamic Logic Module.
-Partial evaluation of machine code.
-A Categorized Bibliography on Incremental Computation.
-On the Complexity of Incremental Computation.
-DBToaster: higher-order delta processing for dynamic, frequently fresh views.
-DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views.
-DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views.
-DBToaster: Agile Views for a Dynamic Data Management System.
-DBToaster: A SQL Compiler for High-Performance Delta Processing in Main-Memory Databases.
-The Partial Evaluation Approach to Information Personalization.
-PIPE: Web Personalization by Partial Evaluation.
-PIPE: Personalizing Recommendations via Partial Evaluation.
-A Self-Adjusting Algorithm for Byzantine Agreement.
-Hybrid partial evaluation.
-Tutorial on Online Partial Evaluation.
-A self-adjusting code cache manager to balance start-up time and memory usage.
-The CB tree: a practical concurrent self-adjusting search tree.
-CBTree: A Practical Concurrent Self-Adjusting Search Tree.
-Results and Problems on Self-adjusting Search Trees and Related Data Structures.
-Self-adjusting top trees.
-The Pairing Heap: A New Form of Self-Adjusting Heap.
-Self-Adjusting Heaps.
+On The Importance Of Tuning In Incremental View Maintenance: An Experience Case Study.
+Self-Adjusting Multi-Way Search Trees.
+Incremental Computation With Names.
+Partial Evaluation Of A Clp Language.
+Self-Adjusting Real-Time Search: A Summary Of Results.
+A Complexity Theoretic Approach To Incremental Computation.
 Self-Adjusting Binary Search Trees.
-Self-Adjusting Binary Trees.
-Incremental computation and maintenance of temporal aggregates.
-Incremental Computation and Maintenance of Temporal Aggregates.
-Deriving Production Rules for Incremental View Maintenance.
-A cost semantics for self-adjusting computation.
-Compiling self-adjusting programs with continuations.
-Partial Evaluation of Views.
-A Strategy for Partial Evaluation of Views.
-Partial Evaluation of Views.
-A Strategy for Partial Evaluation of Views.
-The MRE Wrapper Approach: Enabling Incremental View Maintenance of Data Warehouses Defined on Multi-Relation Information Sources.
-Slicing and partial evaluation of CORBA component model designs for avionics system.
-Foundations for Partial Evaluation of Functional Programs with Computational Effects.
-Using Partial Evaluation to Enable Verification of Concurrent Software.
-An Introduction to Online and Offline Partial Evaluation using a Simple Flowchart Language.
-A Computational Formalization for Partial Evaluation.
-Self-Adjusting of Ternary Search Tries Using Conditional Rotations and Randomized Heuristics.
-Utilizing IDs to Accelerate Incremental View Maintenance.
-The CB tree: a practical concurrent self-adjusting search tree.
-CBTree: A Practical Concurrent Self-Adjusting Search Tree.
-Results and Problems on Self-adjusting Search Trees and Related Data Structures.
-Self-adjusting top trees.
-The Pairing Heap: A New Form of Self-Adjusting Heap.
-Self-Adjusting Heaps.
-Self-Adjusting Binary Search Trees.
-Self-Adjusting Binary Trees.
-On the Complexity of Incremental Computation.
-miniAdapton: A Minimal Implementation of Incremental Computation in Scheme.
-Complexity Models for Incremental Computation.
-A Complexity Theoretic Approach to Incremental Computation.
-Imperative self-adjusting computation.
-PS: Polygon Streams - A Distributed Architecture for Incremental Computation Applied to Graphics.
-Complexity Models for Incremental Computation.
-A Complexity Theoretic Approach to Incremental Computation.
-Self-Adjusting Models for Semi-supervised Learning in Partially Observed Settings.
-Slicing and partial evaluation of CORBA component model designs for avionics system.
-Foundations for Partial Evaluation of Functional Programs with Computational Effects.
-Using Partial Evaluation to Enable Verification of Concurrent Software.
-An Introduction to Online and Offline Partial Evaluation using a Simple Flowchart Language.
-A Computational Formalization for Partial Evaluation.
-Slicing and partial evaluation of CORBA component model designs for avionics system.
-Slicing and partial evaluation of CORBA component model designs for avionics system.
-Using Partial Evaluation to Enable Verification of Concurrent Software.
-SACTA: A Self-Adjusting Clock Tree Architecture for Adapting to Thermal-Induced Delay Variation.
-Automated design of self-adjusting pipelines.
-A self-adjusting clock tree architecture to cope with temperature variations.
-Incremental computation with names.
-Incremental Computation with Names.
-Adapton: composable, demand-driven incremental computation.
-Partial Evaluation of High-Level Imperative Programming Languages, with Applications in Hard Real-Time Systems.
-Incremental Computation via Function Caching.
-How To Roll a Join: Asynchronous Incremental View Maintenance.
-TERN: A Self-Adjusting Thermal Model for Dynamic Resource Provisioning in Data Centers.
-TERN: A Self-Adjusting Thermal Model for Dynamic Resource Provisioning in Data Centers.
-Static Caching for Incremental Computation.
-Discovering Auxiliary Information for Incremental Computation.
-Incremental Computation via Function Caching.
-The CB tree: a practical concurrent self-adjusting search tree.
-CBTree: A Practical Concurrent Self-Adjusting Search Tree.
-Results and Problems on Self-adjusting Search Trees and Related Data Structures.
-Self-adjusting top trees.
-The Pairing Heap: A New Form of Self-Adjusting Heap.
-Self-Adjusting Heaps.
-Self-Adjusting Binary Search Trees.
-Self-Adjusting Binary Trees.
+Randomized Competitive Algorithms For Successful And Unsuccessful Search On Self-Adjusting Linear Lists.
+Partial Evaluation Of High-Level Imperative Programming Languages, With Applications In Hard Real-Time Systems.
+A Computational Formalization For Partial Evaluation.
+A Cost Semantics For Self-Adjusting Computation.
+Adapton: Composable, Demand-Driven Incremental Computation.
+On The Complexity Of Incremental Computation.
 Asymmetric Batch Incremental View Maintenance.
-Incremental computation and maintenance of temporal aggregates.
-Incremental Computation and Maintenance of Temporal Aggregates.
-Complexity Models for Incremental Computation.
-A Complexity Theoretic Approach to Incremental Computation.
-An Implementation of Parametrized Partial Evaluation.
-Imperative self-adjusting computation.
-New visualization and debugging technology for one-way dataflow constraints.
+Partial Evaluation Of Machine Code.
+Static Caching For Incremental Computation.
+A Self-Adjusting Code Cache Manager To Balance Start-Up Time And Memory Usage.
+Analysing Deletions In Competitive Self-Adjusting Linear List.
+Cbtree: A Practical Concurrent Self-Adjusting Search Tree.
+The Cb Tree: A Practical Concurrent Self-Adjusting Search Tree.

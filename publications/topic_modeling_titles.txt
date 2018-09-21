@@ -1,317 +1,217 @@
-Understanding the Limiting Factors of Topic Modeling via Posterior Contraction Analysis.
-"Look Ma, No Hands!" A Parameter-Free Topic Model.
-The Doubly Correlated Nonparametric Topic Model.
-Implicit Feature Detection via a Constrained Topic Model and SVM.
-Co-Regularized PLSA for Multi-Modal Learning.
-SMART Electronic Legal Discovery Via Topic Modeling.
-TopicNets: Visual Analysis of Large Text Corpora with Topic Modeling.
-A Latent Topic Model for Complete Entity Resolution.
-Probabilistic Word Selection via Topic Modeling.
-A Two-Level Topic Model Towards Knowledge Discovery from Citation Networks.
-A Topic Model for Linked Documents and Update Rules for its Estimation.
-A latent topic model for linked documents.
-Latent Dirichlet Allocation.
-Hierarchical Topic Models and the Nested Chinese Restaurant Process.
-Latent Dirichlet Allocation.
-Latent Semantic Indexing: A Probabilistic Analysis.
-Latent Semantic Indexing: A Probabilistic Analysis.
-Using statistical topic models to organize and visualize large-scale architectural image databases.
-Text Representation Using Multi-level Latent Dirichlet Allocation.
-General Topic Annotation in Social Networks: A Latent Dirichlet Allocation Approach.
-Robust unsupervised segmentation of degraded document images with topic models.
-Discovering voter preferences in blogs using mixtures of topic models.
-Utterance Topic Model for Generating Coherent Summaries.
-Automated Scoring of Handwritten Essays Based on Latent Semantic Analysis.
-Automated Scoring of Handwritten Essays Based on Latent Semantic Analysis.
-Understanding Errors in Approximate Distributed Latent Dirichlet Allocation.
-Fast collapsed gibbs sampling for latent dirichlet allocation.
-Annealing Paths for the Evaluation of Topic Models.
-Stochastic collapsed variational Bayesian inference for latent Dirichlet allocation.
-Stochastic Collapsed Variational Bayesian Inference for Latent Dirichlet Allocation.
-Statistical topic models for multi-label document classification.
-TopicNets: Visual Analysis of Large Text Corpora with Topic Modeling.
-On Smoothing and Inference for Topic Models.
-The Author-Topic Model for Authors and Documents.
-Statistical Topic Models for Multi-Label Document Classification.
-Learning author-topic models from text corpora.
-Distributed Algorithms for Topic Models.
-On Smoothing and Inference for Topic Models.
-Combining concept hierarchies and statistical topic models.
-Fast collapsed gibbs sampling for latent dirichlet allocation.
-Asynchronous Distributed Learning of Topic Models.
-Text Modeling using Unsupervised Topic Models and Concept Hierarchies.
-Subject metadata enrichment using statistical topic models.
-Distributed Inference for Latent Dirichlet Allocation.
-Analyzing Entities and Topics in News Articles Using Statistical Topic Models.
-Statistical entity-topic models.
-Modeling General and Specific Aspects of Documents with a Probabilistic Topic Model.
-Probabilistic author-topic models for information discovery.
-The Author-Topic Model for Authors and Documents.
-Place recognition based on Latent Dirichlet Allocation using Markov chain Monte Carlo method.
-A Latent Semantic Indexing Based Method for Solving Multiple Instance Learning Problem in Region-Based Image Retrieval.
-ET-LDA: Joint Topic Modeling for Aligning Events and their Twitter Feedback.
-ET-LDA: Joint Topic Modeling For Aligning, Analyzing and Sensemaking of Public Events and Their Twitter Feeds.
-ET-LDA: Joint Topic Modeling for Aligning Events and their Twitter Feedback.
-A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.
-Heterogeneous Networks and Their Applications: Scientometrics, Name Disambiguation, and Topic Modeling.
-Heart Rate Topic Models.
-Topic Modeling for RDF Graphs.
-Using statistical topic models to organize and visualize large-scale architectural image databases.
-Interactive Topic Modeling for Exploring Asynchronous Online Conversations: Design and Evaluation of ConVisIT.
-ConVisIT: Interactive Topic Modeling for Exploring Asynchronous Online Conversations.
-Automatic categorization of bug reports using latent Dirichlet allocation.
-Building Topic Models to Predict Author Attributes from Twitter Messages.
-Unsupervised language model adaptation via topic modeling based on named entity hypotheses.
-Clustered SVD strategies in latent semantic indexing.
-Toward a causal topic model for video scene analysis.
-Tools for Game Discovery Built Using Latent Semantic Analysis.
-Citation Author Topic Model in Expert Search.
-On Confidence-Constrained Rank Recovery in Topic Models.
-Convex optimization for exact rank recovery in topic models.
-Inference in Supervised latent Dirichlet allocation.
-Latent dirichlet allocation based diversified retrieval for e-commerce search.
-Incremental Latent Semantic Indexing for Automatic Traceability Link Evolution Management.
-Traceability Link Evolution Management with Incremental Latent Semantic Indexing.
-Parallelized Variational EM for Latent Dirichlet Allocation: An Experimental Evaluation of Speed and Scalability.
-Dynamic topic models.
-Correlated Topic Models.
-UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization.
-iVisClustering: An Interactive Visual Document Clustering via Topic Modeling.
-Phishing detection and impersonated entity discovery using Conditional Random Field and Latent Dirichlet Allocation.
-phishGILLNET-phishing detection using probabilistic latent semantic analysis.
-Phishing website detection using Latent Dirichlet Allocation and AdaBoost.
-Gaussian Process Topic Models.
-Analyzing Aviation Safety Reports: From Topic Modeling to Scalable Multi-Label Classification.
-Gaussian Process Topic Models.
-Topic Models over Text Streams: A Study of Batch and Online Unsupervised Learning.
-Multi-view learning via probabilistic latent semantic analysis.
-Topic Modeling for Segment-based Documents.
-Latent Dirichlet Allocation.
-Hierarchical Topic Models and the Nested Chinese Restaurant Process.
-Latent Dirichlet Allocation.
-Automated Scoring of Handwritten Essays Based on Latent Semantic Analysis.
-Combining Probabilistic Ranking and Latent Semantic Indexing for Feature Identification.
-Recovering Documentation-to-Source-Code Traceability Links using Latent Semantic Indexing.
-Using latent semantic analysis to identify similarities in source code to support program understanding.
-UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization.
-Topic model methods for automatically identifying out-of-scope resources.
-Contextual Spelling Correction Using Latent Semantic Analysis.
-Detecting Topic Drift with Compound Topic Models.
-Cliff Walls: An Analysis of Monolithic Commits Using Latent Dirichlet Allocation.
-Is Your Anchor Going Up or Down? Fast and Accurate Supervised Topic Models.
-Evaluating supervised topic models in the presence of OCR errors.
+Topic Modeling For Segment-Based Documents.
+Phishgillnet-Phishing Detection Using Probabilistic Latent Semantic Analysis.
+Clustered Svd Strategies In Latent Semantic Indexing.
+Monte Carlo Methods For Maximum Margin Supervised Topic Models.
+Semantic Context-Aware Recommendation Via Topic Models Leveraging Linked Open Data.
+Learning Author-Topic Models From Text Corpora.
+Examining The Relationship Between Topic Model Similarity And Software Maintenance.
+Sparse Word Graphs: A Scalable Algorithm For Capturing Word Correlations In Topic Models.
+Discriminatively Enhanced Topic Models.
+Unsupervised Language Model Adaptation Via Topic Modeling Based On Named Entity Hypotheses.
+Model-Parallel Inference For Big Topic Models.
+Using Statistical Topic Models To Organize And Visualize Large-Scale Architectural Image Databases.
+Topic Modeling In Fringe Word Prediction For Aac.
+Understanding Errors In Approximate Distributed Latent Dirichlet Allocation.
+Topic Modeling For Rdf Graphs.
+Phishing Detection And Impersonated Entity Discovery Using Conditional Random Field And Latent Dirichlet Allocation.
+Hawkestopic: A Joint Model For Network Inference And Topic Modeling From Text-Based Cascades.
+A Two-Level Topic Model Towards Knowledge Discovery From Citation Networks.
+Using Latent Semantic Analysis To Find Different Names For The Same Entity In Free Text.
+A Nonparametric Mixture Model For Topic Modeling Over Time.
+Adjusting Mixture Weights Of Gaussian Mixture Model Via Regularized Probabilistic Latent Semantic Analysis.
+Structured Correspondence Topic Models For Mining Captioned Figures In Biological Literature.
+Modeling General And Specific Aspects Of Documents With A Probabilistic Topic Model.
+Ranking Algorithm Based On Relational Topic Model.
+Joint Latent Topic Models For Text And Citations.
+Et-Lda: Joint Topic Modeling For Aligning Events And Their Twitter Feedback.
+Collaborative Topic Modeling For Recommending Scientific Articles.
+Text Modeling Using Unsupervised Topic Models And Concept Hierarchies.
+A Scalable Asynchronous Distributed Algorithm For Topic Modeling.
+Distributed Lda-Based Topic Modeling And Topic Agglomeration In A Latent Space.
 Probabilistic Explicit Topic Modeling Using Wikipedia.
-Topics Over Nonparametric Time: A Supervised Topic Model Using Bayesian Nonparametric Density Estimation.
-Cliff Walls: An Analysis of Monolithic Commits Using Latent Dirichlet Allocation.
-Is Your Anchor Going Up or Down? Fast and Accurate Supervised Topic Models.
-Evaluating supervised topic models in the presence of OCR errors.
-Probabilistic Explicit Topic Modeling Using Wikipedia.
-Topics Over Nonparametric Time: A Supervised Topic Model Using Bayesian Nonparametric Density Estimation.
-Task-Driven Comparison of Topic Models.
-Serendip: Topic model-driven visual exploration of text corpora.
-A Framework for Incorporating General Domain Knowledge into Latent Dirichlet Allocation Using First-Order Logic.
-Phishing detection and impersonated entity discovery using Conditional Random Field and Latent Dirichlet Allocation.
-phishGILLNET-phishing detection using probabilistic latent semantic analysis.
-Phishing website detection using Latent Dirichlet Allocation and AdaBoost.
-A Topic Modeling Approach and Its Integration into the Random Walk Framework for Academic Search.
-Recovering Documentation-to-Source-Code Traceability Links using Latent Semantic Indexing.
-Using latent semantic analysis to identify similarities in source code to support program understanding.
-Automatic Software Clustering via Latent Semantic Analysis.
-Methodbook: Recommending Move Method Refactorings via Relational Topic Models.
-Configuring topic models for software engineering tasks in TraceLab.
-How to effectively use topic models for software engineering tasks? an approach based on genetic algorithms.
-Using Relational Topic Models to capture coupling among classes in object-oriented software systems.
-TopicXP: Exploring topics in source code using Latent Dirichlet Allocation.
-Using Latent Dirichlet Allocation for automatic categorization of software.
-Combining Probabilistic Ranking and Latent Semantic Indexing for Feature Identification.
-Online sentiment-based topic modeling for continuous data streams.
-Distributed LDA-based Topic Modeling and Topic Agglomeration in a Latent Space.
-Toward a causal topic model for video scene analysis.
-Topic Modeling for RDF Graphs.
-Ranking algorithm based on relational topic model.
-Recovering Documentation-to-Source-Code Traceability Links using Latent Semantic Indexing.
-Using latent semantic analysis to identify similarities in source code to support program understanding.
-Automatic Software Clustering via Latent Semantic Analysis.
-Online sentiment-based topic modeling for continuous data streams.
-Distributed LDA-based Topic Modeling and Topic Agglomeration in a Latent Space.
-Latent Semantic Indexing of PubMed abstracts for identification of transcription factor candidates from microarray derived gene sets.
-Latent Semantic Analysis Models on Wikipedia and TASA.
-Similarity Measures Based on Latent Dirichlet Allocation.
-The Role of Local and Global Weighting in Assessing the Semantic Similarity of Texts Using Latent Semantic Analysis.
-Incremental Latent Semantic Indexing for Automatic Traceability Link Evolution Management.
-Traceability Link Evolution Management with Incremental Latent Semantic Indexing.
-Implicit Feature Detection via a Constrained Topic Model and SVM.
-Understanding the Limiting Factors of Topic Modeling via Posterior Contraction Analysis.
-"Look Ma, No Hands!" A Parameter-Free Topic Model.
+The Role Of Local And Global Weighting In Assessing The Semantic Similarity Of Texts Using Latent Semantic Analysis.
+Tag-Latent Dirichlet Allocation: Understanding Hashtags And Their Relationships.
+Medlda: Maximum Margin Supervised Topic Models For Regression And Classification.
+Relative Performance Guarantees For Approximate Inference In Latent Dirichlet Allocation.
+Learning Topic Models - Going Beyond Svd.
+Similarity Measures Based On Latent Dirichlet Allocation.
+Topic Models Over Text Streams: A Study Of Batch And Online Unsupervised Learning.
+What Are We Teaching?: Automated Evaluation Of Cs Curricula Content Using Topic Modeling.
+Temporal Topic Modeling To Assess Associations Between News Trends And Infectious Disease Outbreaks.
+Source Code Retrieval For Bug Localization Using Latent Dirichlet Allocation.
+How To Effectively Use Topic Models For Software Engineering Tasks? An Approach Based On Genetic Algorithms.
+Themedelta: Dynamic Segmentations Over Temporal Topic Models.
+Analyzing Aviation Safety Reports: From Topic Modeling To Scalable Multi-Label Classification.
+Latent Topic Networks: A Versatile Probabilistic Programming Framework For Topic Models.
+Partially Labeled Topic Models For Interpretable Text Mining.
+Topic Model Diagnostics: Assessing Domain Relevance Via Topical Alignment.
+Tools For Game Discovery Built Using Latent Semantic Analysis.
+Recovering Documentation-To-Source-Code Traceability Links Using Latent Semantic Indexing.
+Predicting Friendship Links In Social Networks Using A Topic Modeling Approach.
+Studying The History Of Ideas Using Topic Models.
+Latent Dirichlet Allocation.
+Provable Algorithms For Inference In Topic Models.
 Shared Components Topic Models.
-Tools for Game Discovery Built Using Latent Semantic Analysis.
-UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization.
-iVisClustering: An Interactive Visual Document Clustering via Topic Modeling.
-Latent Semantic Indexing: A Probabilistic Analysis.
-Latent Semantic Indexing: A Probabilistic Analysis.
-Applying latent dirichlet allocation to group discovery in large graphs.
-3D Human Motion Tracking Using Dynamic Probabilistic Latent Semantic Analysis.
-Syndromic surveillance of Flu on Twitter using weakly supervised temporal topic models.
-Temporal Topic Modeling to Assess Associations between News Trends and Infectious Disease Outbreaks.
-ThemeDelta: Dynamic Segmentations over Temporal Topic Models.
-Concurrent Inference of Topic Models and Distributed Vector Representations.
-Flu Gone Viral: Syndromic Surveillance of Flu on Twitter Using Temporal Topic Models.
-A Scalable Asynchronous Distributed Algorithm for Topic Modeling.
-Admixture of Poisson MRFs: A Topic Model with Word Dependencies.
-A Scalable Asynchronous Distributed Algorithm for Topic Modeling.
+Robust Unsupervised Segmentation Of Degraded Document Images With Topic Models.
+Learning Therapy Strategies From Demonstration Using Latent Dirichlet Allocation.
+Configuring Topic Models For Software Engineering Tasks In Tracelab.
+Heterogeneous Networks And Their Applications: Scientometrics, Name Disambiguation, And Topic Modeling.
+How Latent Is Latent Semantic Analysis?
+Time Series Analysis Of Nursing Notes For Mortality Prediction Via A State Transition Topic Model.
 Spherical Topic Models.
-Leveraging topic modeling and part-of-speech tagging to support combinational creativity in requirements engineering.
-Topic Modeling for RDF Graphs.
-Topic Modeling for RDF Graphs.
-Finding aliases on the web using latent semantic analysis.
-Using latent semantic analysis to find different names for the same entity in free text.
-A Methodology for Ontology Evaluation Using Topic Models.
-TopicCheck: Interactive Alignment for Assessing Topic Model Stability.
-Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment.
-Termite: visualization techniques for assessing textual topic models.
-Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment.
-Termite: visualization techniques for assessing textual topic models.
-Partially labeled topic models for interpretable text mining.
-Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora.
-Studying the History of Ideas Using Topic Models.
-Examining the relationship between topic model similarity and software maintenance.
-Using Topic Models to Support Software Maintenance.
-Using Latent Semantic Analysis to Evaluate the Contributions of Students in AutoTutor.
-How Latent is Latent Semantic Analysis?
-Academic network analysis: a joint topic modeling approach.
-Tracking trends: incorporating term volume into temporal topic models.
-Topic Model for Identifying Suicidal Ideation in Chinese Microblog.
-What Are We Teaching?: Automated Evaluation of CS Curricula Content Using Topic Modeling.
-Phishing detection and impersonated entity discovery using Conditional Random Field and Latent Dirichlet Allocation.
-phishGILLNET-phishing detection using probabilistic latent semantic analysis.
-Phishing website detection using Latent Dirichlet Allocation and AdaBoost.
-Detecting "Smart" Spammers on Social Network: A Topic Model Approach.
-Detecting "Smart" Spammers On Social Network: A Topic Model Approach.
-Model Selection for Topic Models via Spectral Decomposition.
-Transfer Topic Modeling with Ease and Scalability.
-Determining the context of text using augmented latent semantic indexing.
-Determining the context of text using augmented latent semantic indexing.
-Determining the context of text using augmented latent semantic indexing.
-Private Topic Modeling.
-Latent Semantic Indexing is an Optimal Special Case of Multidimensional Scaling.
-Context-Sensitive Error Correction: Using Topic Models to Improve OCR.
-Learning Therapy Strategies from Demonstration Using Latent Dirichlet Allocation.
-Plan and Activity Recognition from a Topic Modeling Perspective.
-Provable Algorithms for Inference in Topic Models.
-Provable Algorithms for Inference in Topic Models.
-A Practical Algorithm for Topic Modeling with Provable Guarantees.
-Learning Topic Models - Going beyond SVD.
-Learning Topic Models - Going beyond SVD.
-A Practical Algorithm for Topic Modeling with Provable Guarantees.
-The Inverse Regression Topic Model.
-Probabilistic topic models.
-Sparse stochastic inference for latent Dirichlet allocation.
-Visualizing Topic Models.
-Multilingual Topic Models for Unaligned Text.
-Continuous Time Dynamic Topic Models.
-Bayesian Checking for Topic Models.
-Collaborative topic modeling for recommending scientific articles.
-The IBP Compound Dirichlet Process and its Application to Focused Topic Modeling.
-Online Learning for Latent Dirichlet Allocation.
-Syntactic Topic Models.
+Tracking Trends: Incorporating Term Volume Into Temporal Topic Models.
+Text Representation Using Multi-Level Latent Dirichlet Allocation.
+Gaussian Process Topic Models.
+Unsupervised Topic Modeling Approaches To Decision Summarization In Spoken Meetings.
+Topic Model Methods For Automatically Identifying Out-Of-Scope Resources.
+Dynamic Topic Modeling For Monitoring Market Competition From Online Text And Image Data.
+Linear Time Samplers For Supervised Topic Models Using Compositional Proposals.
+Ivisclustering: An Interactive Visual Document Clustering Via Topic Modeling.
+Context-Sensitive Error Correction: Using Topic Models To Improve Ocr.
+Multilingual Topic Models For Unaligned Text.
+Semi-Latent Dirichlet Allocation: A Hierarchical Model For Human Action Recognition.
+The Ibp Compound Dirichlet Process And Its Application To Focused Topic Modeling.
+Applying Latent Dirichlet Allocation To Group Discovery In Large Graphs.
+Model Selection For Topic Models Via Spectral Decomposition.
+Putop: Turning Predominant Senses Into A Topic Model For Word Sense Disambiguation.
+Using Latent Semantic Analysis To Evaluate The Contributions Of Students In Autotutor.
 Reading Tea Leaves: How Humans Interpret Topic Models.
-Multilingual Topic Models for Unaligned Text.
-Relational Topic Models for Document Networks.
-Markov Topic Models.
-Syntactic Topic Models.
-Relative Performance Guarantees for Approximate Inference in Latent Dirichlet Allocation.
-Continuous Time Dynamic Topic Models.
-A Topic Model for Word Sense Disambiguation.
-Supervised Topic Models.
-PUTOP: Turning Predominant Senses into a Topic Model for Word Sense Disambiguation.
-Dynamic topic models.
-Correlated Topic Models.
-Latent Dirichlet Allocation.
-Hierarchical Topic Models and the Nested Chinese Restaurant Process.
-Latent Dirichlet Allocation.
-A Latent Semantic Indexing Based Method for Solving Multiple Instance Learning Problem in Region-Based Image Retrieval.
-A Probabilistic Latent Semantic Analysis Model for Coclustering the Mouse Brain Atlas.
-Topic Modeling in Semantic Space with Keywords.
-Adjusting Mixture Weights of Gaussian Mixture Model via Regularized Probabilistic Latent Semantic Analysis.
-Using statistical topic models to organize and visualize large-scale architectural image databases.
-Discriminatively Enhanced Topic Models.
-Incorporating Lexical Priors into Topic Models.
-Configuring latent Dirichlet allocation based feature location.
-Bug localization using latent Dirichlet allocation.
-Source Code Retrieval for Bug Localization Using Latent Dirichlet Allocation.
-Phishing detection and impersonated entity discovery using Conditional Random Field and Latent Dirichlet Allocation.
-phishGILLNET-phishing detection using probabilistic latent semantic analysis.
-Phishing website detection using Latent Dirichlet Allocation and AdaBoost.
-Parallel Inference for Latent Dirichlet Allocation on Graphics Processing Units.
-Semantic hashing using tags and topic modeling.
-Mining contrastive opinions on political texts using cross-perspective topic model.
-Adjusting Mixture Weights of Gaussian Mixture Model via Regularized Probabilistic Latent Semantic Analysis.
-Predicting Friendship Links in Social Networks Using a Topic Modeling Approach.
-HDPauthor: A New Hybrid Author-Topic Model using Latent Dirichlet Allocation and Hierarchical Dirichlet Processes.
-An Ensemble Topic Model for Sharing Healthcare Data and Predicting Disease Risk.
-A Latent Dirichlet Allocation Method for Selectional Preferences.
-Efficient Methods for Incorporating Knowledge into Topic Models.
-Predicting Word Clipping with Latent Semantic Analysis.
-Tag-Latent Dirichlet Allocation: Understanding Hashtags and Their Relationships.
-Discriminatively Enhanced Topic Models.
-Incorporating Lexical Priors into Topic Models.
-Latent Topic Networks: A Versatile Probabilistic Programming Framework for Topic Models.
-HawkesTopic: A Joint Model for Network Inference and Topic Modeling from Text-Based Cascades.
-Topic Modeling for Wikipedia Link Disambiguation.
-LA-LDA: A Limited Attention Topic Model for Social Recommendation.
-LA-LDA: A Limited Attention Topic Model for Social Recommendation.
-A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.
-Tag-Latent Dirichlet Allocation: Understanding Hashtags and Their Relationships.
-Topic modeling in fringe word prediction for AAC.
-Incremental Latent Semantic Indexing for Automatic Traceability Link Evolution Management.
-Traceability Link Evolution Management with Incremental Latent Semantic Indexing.
-Parallelized Variational EM for Latent Dirichlet Allocation: An Experimental Evaluation of Speed and Scalability.
-Dynamic topic models.
-Correlated Topic Models.
-Unsupervised Topic Modeling Approaches to Decision Summarization in Spoken Meetings.
-Unsupervised Topic Modeling Approaches to Decision Summarization in Spoken Meetings.
-Multi-aspect Sentiment Analysis with Topic Models.
-Sparse Latent Semantic Analysis.
-Structured correspondence topic models for mining captioned figures in biological literature.
-Time Series Analysis of Nursing Notes for Mortality Prediction via a State Transition Topic Model.
-Predicting Response to Political Blog Posts with Topic Models.
-Grounding Topic Models with Knowledge Bases.
-Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data.
-Linear Time Samplers for Supervised Topic Models using Compositional Proposals.
-Incorporating Word Correlation Knowledge into Topic Modeling.
-LightLDA: Big Topic Models on Modest Computer Clusters.
-Model-Parallel Inference for Big Topic Models.
-LightLDA: Big Topic Models on Modest Compute Clusters.
-A Nonparametric Mixture Model for Topic Modeling over Time.
-Integrating Document Clustering and Topic Modeling.
-Integrating Document Clustering and Topic Modeling.
-MedLDA: maximum margin supervised topic models.
-Topic Models, Latent Space Models, Sparse Coding, and All That: A Systematic Understanding of Probabilistic Semantic Extraction in Large Corpus.
-Symmetric Correspondence Topic Models for Multilingual Text Analysis.
-Monte Carlo Methods for Maximum Margin Supervised Topic Models.
-Conditional topical coding: an efficient topic model conditioned on rich features.
-MedLDA: maximum margin supervised topic models for regression and classification.
-Structured correspondence topic models for mining captioned figures in biological literature.
-Joint latent topic models for text and citations.
-Sparse Word Graphs: A Scalable Algorithm for Capturing Word Correlations in Topic Models.
-Parallelized Variational EM for Latent Dirichlet Allocation: An Experimental Evaluation of Speed and Scalability.
-Dynamic topic models.
-Correlated Topic Models.
-Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment.
-Termite: visualization techniques for assessing textual topic models.
-Partially labeled topic models for interpretable text mining.
-Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora.
-Studying the History of Ideas Using Topic Models.
-Configuring latent Dirichlet allocation based feature location.
-Bug localization using latent Dirichlet allocation.
-Source Code Retrieval for Bug Localization Using Latent Dirichlet Allocation.
-Semantic Tagging Using Topic Models Exploiting Wikipedia Category Network.
-Semantic Context-Aware Recommendation via Topic Models Leveraging Linked Open Data.
+Convex Optimization For Exact Rank Recovery In Topic Models.
+Predicting Word Clipping With Latent Semantic Analysis.
+Using Latent Semantic Analysis To Identify Similarities In Source Code To Support Program Understanding.
+Predicting Response To Political Blog Posts With Topic Models.
+Online Sentiment-Based Topic Modeling For Continuous Data Streams.
+Place Recognition Based On Latent Dirichlet Allocation Using Markov Chain Monte Carlo Method.
+Co-Regularized Plsa For Multi-Modal Learning.
+Incremental Latent Semantic Indexing For Automatic Traceability Link Evolution Management.
 Automatic Topic Labeling Using Ontology-Based Topic Models.
-Max-margin Latent Dirichlet Allocation for Image Classification and Annotation.
-Human Action Recognition by Semilatent Topic Models.
-Semi-Latent Dirichlet Allocation: A Hierarchical Model for Human Action Recognition.
-Latent Semantic Analysis Models on Wikipedia and TASA.
-Similarity Measures Based on Latent Dirichlet Allocation.
-The Role of Local and Global Weighting in Assessing the Semantic Similarity of Texts Using Latent Semantic Analysis.
-Mining Contentious Documents Using an Unsupervised Topic Model Based Approach.
+Detecting "Smart" Spammers On Social Network: A Topic Model Approach.
+Implicit Feature Detection Via A Constrained Topic Model And Svm.
+Phishing Website Detection Using Latent Dirichlet Allocation And Adaboost.
+The Author-Topic Model For Authors And Documents.
+Detecting Topic Drift With Compound Topic Models.
+A Latent Topic Model For Linked Documents.
+Relational Topic Models For Document Networks.
+Methodbook: Recommending Move Method Refactorings Via Relational Topic Models.
+Parallelized Variational Em For Latent Dirichlet Allocation: An Experimental Evaluation Of Speed And Scalability.
+"Look Ma, No Hands!" A Parameter-Free Topic Model.
+Annealing Paths For The Evaluation Of Topic Models.
+Probabilistic Author-Topic Models For Information Discovery.
+Using Relational Topic Models To Capture Coupling Among Classes In Object-Oriented Software Systems.
+Syndromic Surveillance Of Flu On Twitter Using Weakly Supervised Temporal Topic Models.
+Multi-View Learning Via Probabilistic Latent Semantic Analysis.
+Stochastic Collapsed Variational Bayesian Inference For Latent Dirichlet Allocation.
+Continuous Time Dynamic Topic Models.
+Discovering Voter Preferences In Blogs Using Mixtures Of Topic Models.
+Hdpauthor: A New Hybrid Author-Topic Model Using Latent Dirichlet Allocation And Hierarchical Dirichlet Processes.
+A Latent Dirichlet Allocation Method For Selectional Preferences.
+On Smoothing And Inference For Topic Models.
+Statistical Entity-Topic Models.
+Topicnets: Visual Analysis Of Large Text Corpora With Topic Modeling.
+Configuring Latent Dirichlet Allocation Based Feature Location.
+Latent Semantic Indexing Of Pubmed Abstracts For Identification Of Transcription Factor Candidates From Microarray Derived Gene Sets.
+Evaluating Supervised Topic Models In The Presence Of Ocr Errors.
+Automated Scoring Of Handwritten Essays Based On Latent Semantic Analysis.
+Building Topic Models To Predict Author Attributes From Twitter Messages.
+Topics Over Nonparametric Time: A Supervised Topic Model Using Bayesian Nonparametric Density Estimation.
+La-Lda: A Limited Attention Topic Model For Social Recommendation.
+Academic Network Analysis: A Joint Topic Modeling Approach.
+Visualizing Topic Models.
+Latent Semantic Analysis Models On Wikipedia And Tasa.
+Latent Semantic Indexing: A Probabilistic Analysis.
+Topic Modeling In Semantic Space With Keywords.
+Fast Collapsed Gibbs Sampling For Latent Dirichlet Allocation.
+Traceability Link Evolution Management With Incremental Latent Semantic Indexing.
+Utterance Topic Model For Generating Coherent Summaries.
+A Topic Modeling Approach And Its Integration Into The Random Walk Framework For Academic Search.
+Latent Semantic Indexing Is An Optimal Special Case Of Multidimensional Scaling.
+Distributed Inference For Latent Dirichlet Allocation.
+Automatic Categorization Of Bug Reports Using Latent Dirichlet Allocation.
+Inference In Supervised Latent Dirichlet Allocation.
+Determining The Context Of Text Using Augmented Latent Semantic Indexing.
+Combining Probabilistic Ranking And Latent Semantic Indexing For Feature Identification.
+Finding Aliases On The Web Using Latent Semantic Analysis.
+Leveraging Topic Modeling And Part-Of-Speech Tagging To Support Combinational Creativity In Requirements Engineering.
+Syntactic Topic Models.
+Termite: Visualization Techniques For Assessing Textual Topic Models.
+Statistical Topic Models For Multi-Label Document Classification.
+Cliff Walls: An Analysis Of Monolithic Commits Using Latent Dirichlet Allocation.
+Lightlda: Big Topic Models On Modest Computer Clusters.
+An Ensemble Topic Model For Sharing Healthcare Data And Predicting Disease Risk.
+Smart Electronic Legal Discovery Via Topic Modeling.
+Dynamic Topic Models.
+Efficient Methods For Incorporating Knowledge Into Topic Models.
+Utopian: User-Driven Topic Modeling Based On Interactive Nonnegative Matrix Factorization.
+Topic Model For Identifying Suicidal Ideation In Chinese Microblog.
+Max-Margin Latent Dirichlet Allocation For Image Classification And Annotation.
+A Practical Algorithm For Topic Modeling With Provable Guarantees.
+Concurrent Inference Of Topic Models And Distributed Vector Representations.
+Hierarchical Topic Models And The Nested Chinese Restaurant Process.
+Lightlda: Big Topic Models On Modest Compute Clusters.
+Parallel Inference For Latent Dirichlet Allocation On Graphics Processing Units.
+General Topic Annotation In Social Networks: A Latent Dirichlet Allocation Approach.
+Distributed Algorithms For Topic Models.
+Probabilistic Word Selection Via Topic Modeling.
+Serendip: Topic Model-Driven Visual Exploration Of Text Corpora.
+A Topic Model For Linked Documents And Update Rules For Its Estimation.
+A Latent Semantic Indexing Based Method For Solving Multiple Instance Learning Problem In Region-Based Image Retrieval.
+Topic Models, Latent Space Models, Sparse Coding, And All That: A Systematic Understanding Of Probabilistic Semantic Extraction In Large Corpus.
+Semantic Hashing Using Tags And Topic Modeling.
+Correlated Topic Models.
+A Latent Topic Model For Complete Entity Resolution.
+Task-Driven Comparison Of Topic Models.
+Incorporating Word Correlation Knowledge Into Topic Modeling.
+3D Human Motion Tracking Using Dynamic Probabilistic Latent Semantic Analysis.
+A Topic Model For Word Sense Disambiguation.
+Automatic Software Clustering Via Latent Semantic Analysis.
+Topiccheck: Interactive Alignment For Assessing Topic Model Stability.
+Convisit: Interactive Topic Modeling For Exploring Asynchronous Online Conversations.
+Topicxp: Exploring Topics In Source Code Using Latent Dirichlet Allocation.
+Flu Gone Viral: Syndromic Surveillance Of Flu On Twitter Using Temporal Topic Models.
+The Inverse Regression Topic Model.
+Latent Dirichlet Allocation Based Diversified Retrieval For E-Commerce Search.
+Using Latent Dirichlet Allocation For Automatic Categorization Of Software.
+Toward A Causal Topic Model For Video Scene Analysis.
+Mining Contentious Documents Using An Unsupervised Topic Model Based Approach.
+Integrating Document Clustering And Topic Modeling.
+Markov Topic Models.
+Heart Rate Topic Models.
+Conditional Topical Coding: An Efficient Topic Model Conditioned On Rich Features.
+Understanding The Limiting Factors Of Topic Modeling Via Posterior Contraction Analysis.
+Supervised Topic Models.
+Grounding Topic Models With Knowledge Bases.
+Probabilistic Topic Models.
+Analyzing Entities And Topics In News Articles Using Statistical Topic Models.
+Citation Author Topic Model In Expert Search.
+Plan And Activity Recognition From A Topic Modeling Perspective.
+Incorporating Lexical Priors Into Topic Models.
+Interactive Topic Modeling For Exploring Asynchronous Online Conversations: Design And Evaluation Of Convisit.
+Sparse Latent Semantic Analysis.
+On Confidence-Constrained Rank Recovery In Topic Models.
+Is Your Anchor Going Up Or Down? Fast And Accurate Supervised Topic Models.
+Et-Lda: Joint Topic Modeling For Aligning, Analyzing And Sensemaking Of Public Events And Their Twitter Feeds.
+A Probabilistic Latent Semantic Analysis Model For Coclustering The Mouse Brain Atlas.
+Using Topic Models To Support Software Maintenance.
+Contextual Spelling Correction Using Latent Semantic Analysis.
+Semantic Tagging Using Topic Models Exploiting Wikipedia Category Network.
+Multi-Aspect Sentiment Analysis With Topic Models.
+Subject Metadata Enrichment Using Statistical Topic Models.
+Labeled Lda: A Supervised Topic Model For Credit Attribution In Multi-Labeled Corpora.
+Asynchronous Distributed Learning Of Topic Models.
+Medlda: Maximum Margin Supervised Topic Models.
+Online Learning For Latent Dirichlet Allocation.
+Bayesian Checking For Topic Models.
+Topic Modeling For Wikipedia Link Disambiguation.
+The Doubly Correlated Nonparametric Topic Model.
+Admixture Of Poisson Mrfs: A Topic Model With Word Dependencies.
+Human Action Recognition By Semilatent Topic Models.
+Symmetric Correspondence Topic Models For Multilingual Text Analysis.
+A Methodology For Ontology Evaluation Using Topic Models.
+Combining Concept Hierarchies And Statistical Topic Models.
+Private Topic Modeling.
+A Semidiscrete Matrix Decomposition For Latent Semantic Indexing Information Retrieval.
+Bug Localization Using Latent Dirichlet Allocation.
+Sparse Stochastic Inference For Latent Dirichlet Allocation.
+Transfer Topic Modeling With Ease And Scalability.
+A Framework For Incorporating General Domain Knowledge Into Latent Dirichlet Allocation Using First-Order Logic.
+Mining Contrastive Opinions On Political Texts Using Cross-Perspective Topic Model.

@@ -1,0 +1,122 @@
+Adaptive Mechanism Design: A Metalearning Approach.
+Using Mechanism Design To Prevent False-Name Manipulations.
+Pricing Wifi At Starbucks: Issues In Online Mechanism Design.
+Algorithms, Approximation, And Empirical Studies In Behavioral And Computational Social Choice - Preface.
+Mechanism Design For Multi-Agent Meeting Scheduling Including Time Preferences, Availability, And Value Of Presence.
+Incentive Mechanism Design For Crowdsourcing: An All-Pay Auction Approach.
+Simplicity-Expressiveness Tradeoffs In Mechanism Design.
+Envy Freedom And Prior-Free Mechanism Design.
+Physical Machine Resource Management In Clouds: A Mechanism Design Approach.
+Establishing Network Reputation Via Mechanism Design.
+Optimal And Near-Optimal Mechanism Design With Interdependent Values.
+(Im)Possibility Of Safe Exchange Mechanism Design.
+Optimal Mechanism Design And Money Burning.
+Mechanism Design For Coalition Formation And Cost Sharing In Group-Buying Markets.
+Bayesian Optimal No-Deficit Mechanism Design.
+Empirical Mechanism Design: Methods, With Application To A Supply-Chain Scenario.
+Using Analogical Reasoning For Mechanism Design.
+Mechanism Design For Set Cover Games When Elements Are Agents.
+Pragmatic Algorithmic Game Theory.
+Mechanism Design Via Machine Learning.
+Black-Box Randomized Reductions In Algorithmic Mechanism Design.
+Multi-Parameter Mechanism Design And Sequential Posted Pricing.
+Online Mechanism Design For Electric Vehicle Charging.
+Assessing The Robustness Of Cremer-Mclean With Automated Mechanism Design.
+Symmetries And Optimal Multi-Dimensional Mechanism Design.
+Prediction Markets, Mechanism Design, And Cooperative Game Theory.
+Computational Mechanism Design: An Ai Agenda.
+An Mdp-Based Approach To Online Mechanism Design.
+Mechanism Design Via Consensus Estimates, Cross Checking, And Profit Extraction.
+On Optimal Multi-Dimensional Mechanism Design.
+Mechanism Design With Execution Uncertainty.
+Mechanism Design For Personalized Recommender Systems.
+Finding Cheap Routes In Profit-Driven Opportunistic Spectrum Access Networks: A Truthful Mechanism Design Approach.
+On The Limits Of Black-Box Reductions In Mechanism Design.
+Perceptions And Truth: A Mechanism Design Approach To Crowd-Sourcing Reputation.
+Rational Secure Computation And Ideal Mechanism Design.
+Dynamic Fair Division With Minimal Disruptions.
+General Tiebreaking Schemes For Computational Social Choice.
+Algorithmic Game Theory: Some Greatest Hits And Future Directions.
+On Optimal Multidimensional Mechanism Design.
+Mechanism Design For Subadditive Agents Via An Ex-Ante Relaxation.
+Mechanism Design For Data Science.
+Computational Social Choice: Theory And Applications (Dagstuhl Seminar 15241).
+Mechanism Design Via Optimal Transport.
+Complexity Of Mechanism Design.
+Reducing Bayesian Mechanism Design To Algorithm Design.
+Truthful Load-Aware Service Selection: A Mechanism Design Method.
+Optimal Multi-Dimensional Mechanism Design: Reducing Revenue To Welfare Maximization.
+Mechanism Design With Partial Revelation.
+Automated Mechanism Design For A Self-Interested Designer.
+Complexity Of Mechanism Design With Signaling Costs.
+Automated Online Mechanism Design And Prophet Inequalities.
+Mechanism Design With Set-Theoretic Beliefs.
+When Analysis Fails: Heuristic Mechanism Design Via Self-Correcting Procedures.
+Automated Mechanism Design Without Money Via Machine Learning.
+Mechanism Design With Approximate Valuations.
+Combining Trust Modeling And Mechanism Design For Promoting Honesty In E-Marketplaces.
+Efficiency And Privacy Tradeoffs In Mechanism Design.
+Computationally Feasible Automated Mechanism Design: General Approach And Case Studies.
+Research On The K-Coverage Local Wireless Network And Its Communication Coordination Mechanism Design.
+Algorithmic Mechanism Design For Load Balancing In Distributed Systems.
+Mechanism Design And Deliberative Agents.
+Mechanism Design For Finding Experts Using Locally Constructed Social Referral Web.
+Mechanism Design For Scheduling With Uncertain Execution Time.
+Mixture Selection, Mechanism Design, And Signaling.
+On The Impossibility Of Black-Box Transformations In Mechanism Design.
+Introduction To The Special Issue - Algorithmic Game Theory - Stoc/Focs/Soda 2011.
+Algorithmic Game Theory.
+Prior-Independent Multi-Parameter Mechanism Design.
+Automated Mechanism Design: A New Application Area For Search Algorithms.
+The Power Of Randomness In Bayesian Optimal Mechanism Design.
+Non-Revelation Mechanism Design.
+Constrained Automated Mechanism Design For Infinite Games Of Incomplete Information.
+Limited And Online Supply And The Bayesian Foundations Of Prior-Free Mechanism Design.
+Understanding Incentives: Mechanism Design Becomes Algorithm Design.
+Automated Mechanism Design.
+Approximately Optimal Mechanism Design: Motivation, Examples, And Lessons Learned.
+Reverse Mechanism Design.
+The Complexity Of Optimal Mechanism Design.
+Approximation In Mechanism Design.
+Bayesian Mechanism Design For Budget-Constrained Agents.
+Mechanism Design For Set Cover Games With Selfish Element Agents.
+The Price Of Stability For Network Design With Fair Cost Allocation.
+Bayesian Algorithmic Mechanism Design.
+Distributed Algorithmic Mechanism Design For Scheduling On Unrelated Machines.
+Reducing Mechanism Design To Algorithm Design Via Machine Learning.
+Optimal And Robust Mechanism Design With Interdependent Values.
+Behavorial Mechanism Design As An Online Marketing Tool.
+A New Approach To Auctions And Resilient Mechanism Design.
+Systematic Protection Mechanism Design.
+Crowdsourcing To Smartphones: Incentive Mechanism Design For Mobile Phone Sensing.
+Automated Mechanism Design: Complexity Results Stemming From The Single-Agent Setting.
+Sample Complexity Of Automated Mechanism Design.
+Brief Announcement: Distributed Algorithmic Mechanism Design For Scheduling.
+Sequential Posted Pricing And Multi-Parameter Mechanism Design.
+An Ironing-Based Approach To Adaptive Online Mechanism Design In Single-Valued Domains.
+Self-Interested Automated Mechanism Design And Implications For Optimal Combinatorial Auctions.
+Incremental Mechanism Design.
+Computational Aspects Of Mechanism Design.
+Mechanism Design For Multi-Agent Meeting Scheduling.
+Mechanism Design For Preference Aggregation Over Coalitions.
+Fair Allocation Of Substrate Resources Among Multiple Overlay Networks.
+Incentive Mechanism Design For Heterogeneous Crowdsourcing Using All-Pay Contests.
+Partially Synchronized Dec-Mdps In Dynamic Mechanism Design.
+The Revelation Principle For Mechanism Design With Reporting Costs.
+Approximately Efficient Online Mechanism Design.
+Approximation Algorithms And Algorithm Mechanism Design.
+Adaptive Auction Mechanism Design And The Incorporation Of Prior Knowledge.
+Bayesian Mechanism Design.
+Computational-Mechanism Design: A Call To Arms.
+Reviews Of Three Books On Fair Division Of Resources.
+Prediction Markets: Economics, Computation, And Mechanism Design.
+Dominant Resource Fairness: Fair Allocation Of Multiple Resource Types.
+Partial Revelation Automated Mechanism Design.
+Fault Tolerant Mechanism Design.
+Algorithmic Game Theory And Artificial Intelligence.
+Mechanism Design For Subadditive Agents Via An Ex Ante Relaxation.
+Online Cost-Sharing Mechanism Design For Demand-Responsive Transport Systems.
+Mechanism Design With Possibilistic Beliefs.
+Keep Your Promise: Mechanism Design Against Free-Riding And False-Reporting In Crowdsourcing.
+A Dec-Pomdp Model For Congestion Avoidance And Fair Allocation Of Network Bandwidth In Rate-Adaptive Video Streaming.
+Incentive Mechanism Design For Smartphone Crowdsensing.
