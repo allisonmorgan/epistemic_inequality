@@ -13,11 +13,11 @@ def run_trials(si_trials=2):
     rs = np.linspace(0, 1, 5, endpoint=False)
 
     # If starting from an empty cache:
-    # results = {"size": {}, "length": {}}
-    # for p in ps:
-    #     results["size"][p] = defaultdict(list)
-    #     results["length"][p] = defaultdict(list)
-    results = pickle.load(open("cache/BUSI_SI.p", "rb"))
+    results = {"size": {}, "length": {}}
+    for p in ps:
+        results["size"][p] = defaultdict(list)
+        results["length"][p] = defaultdict(list)
+    # results = pickle.load(open("cache/BUSI_SI.p", "rb"))
     for trial in xrange(si_trials):
         print("Trial progress: {}".format(trial / float(si_trials)))
         for p in ps:
@@ -28,7 +28,7 @@ def run_trials(si_trials=2):
                 epi.simulate()
                 results["size"][p][node].append(epi.size)
                 results["length"][p][node].append(epi.length)
-    pickle.dump(results, open("cache/BUSI_SI.p", 'wb'))
+    # pickle.dump(results, open("cache/BUSI_SI.p", 'wb'))
     results.clear()
     print("SI done")
 
@@ -37,11 +37,11 @@ def run_trials_graph_with_random_hops(si_trials=2):
     pjumps = np.linspace(0, 1, 11)
 
     # If starting from an empty cache:
-    # results = {"size": {}, "length": {}}
-    # for p in pjumps:
-    #     results["size"][p] = defaultdict(list)
-    #     results["length"][p] = defaultdict(list)
-    results = pickle.load(open("cache/random_jump/BUSI_SI.p", "rb"))
+    results = {"size": {}, "length": {}}
+    for p in pjumps:
+        results["size"][p] = defaultdict(list)
+        results["length"][p] = defaultdict(list)
+    # results = pickle.load(open("cache/random_jump/BUSI_SI.p", "rb"))
     for trial in xrange(si_trials):
         print("Trial progress: {}".format(trial / float(si_trials)))
         for p in pjumps:
@@ -52,7 +52,7 @@ def run_trials_graph_with_random_hops(si_trials=2):
                 epi.simulate()
                 results["size"][p][node].append(epi.size)
                 results["length"][p][node].append(epi.length)
-    pickle.dump(results, open("cache/random_jump/BUSI_SI.p", 'wb'))
+    # pickle.dump(results, open("cache/random_jump/BUSI_SI.p", 'wb'))
     results.clear()
     print("SI + RANDOM HOP done")
 

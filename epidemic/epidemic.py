@@ -46,6 +46,7 @@ class SI(object):
         self.susceptible = set(nx.nodes(graph))
         self.infected = set()
         self.time = 0
+        self.timeline = []
         self.visited_edges = set()
         self.is_complete = False
         self.is_random_jump = is_random_jump
@@ -77,6 +78,7 @@ class SI(object):
         try:
             self.susceptible.remove(node)
             self.infected.add(node)
+            self.timeline.append((node, self.time))
             self.is_complete = False
         except:
             pass
