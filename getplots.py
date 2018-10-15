@@ -12,6 +12,7 @@ from imports.importbusiness import school_metadata as meta_busi, faculty_graph a
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+import csv
 import math
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
@@ -117,20 +118,22 @@ def plot_centrality():
             	max_c = c
 
             if label in ['MIT']:
-                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), xytext=(50, 50), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'ls': 'dashed'}, fontsize = plot_utils.LEGEND_SIZE)
+                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), color='0.4', xytext=(50, 50), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'color': '0.4'}, fontsize = plot_utils.LEGEND_SIZE, zorder=2)
+                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), color='white', xytext=(50, 50), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'color': 'white', 'lw': '2.1'}, zorder = 1, fontsize = plot_utils.LEGEND_SIZE)
             if label in ['University of Colorado, Boulder']:
                 if label == 'University of Colorado, Boulder':
                     label = 'University of Colorado,\nBoulder'
-                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), xytext=(25, -45), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'ls': 'dashed'}, fontsize = plot_utils.LEGEND_SIZE)
+                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), color='0.4', xytext=(25, -45), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'color': '0.4'}, zorder = 4, fontsize = plot_utils.LEGEND_SIZE)
+                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), color='white', xytext=(25, -45), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'color': 'white', 'lw': '2.1'}, zorder = 3, fontsize = plot_utils.LEGEND_SIZE)
             if label in ['New Mexico State University']:
                 if label == 'New Mexico State University':
                     label = 'New Mexico\nState University'
-                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), xytext=(25, -100), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'ls': 'dashed'}, fontsize = plot_utils.LEGEND_SIZE)
-
+                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), color='0.4', xytext=(25, -100), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'color': '0.4'}, zorder = 6, fontsize = plot_utils.LEGEND_SIZE)
+                plt.annotate(label, xy=(school_metadata[vertex]['pi'], c), color='white', xytext=(25, -100), textcoords='offset points', ha='center', va='bottom', arrowprops={'arrowstyle': '-', 'color': 'white', 'lw': '2.1'}, zorder = 5, fontsize = plot_utils.LEGEND_SIZE)
         ax.scatter(x, y, edgecolor='w', clip_on=False, zorder=1, color=next(colors), s=28)
 
         slope, intercept, r_value, p_value, std_err = linregress(x, y)
-       	plt.plot([0, max(x)], [slope*i + intercept for i in [0, max(x)]], color=plot_utils.ALMOST_BLACK, label='Slope: %.4f\n$R^{2}$: %.4f' % (slope, r_value**2))
+       	plt.plot([0, max(x)], [slope*i + intercept for i in [0, max(x)]], color=plot_utils.ALMOST_BLACK, label='Slope: %.4f\n$R^{2}$: %.4f' % (slope, r_value**2), zorder=7)
 
     plt.xlabel(r'Universities Sorted by Prestige, $\pi$', fontsize=plot_utils.LABEL_SIZE)
     plt.ylabel(r'Average Path Length, $\langle \ell \rangle$', fontsize=plot_utils.LABEL_SIZE)
@@ -221,33 +224,48 @@ def plot_si_prestige_size(cache_dirs):
     filtered = sorted(cache["size"].keys())[1::2]
     length_of_results = len(filtered)
 
+    with open(cache_dir.replace(".p", "_size.tsv"), 'w') as file:
+        writer = csv.writer(file, delimiter='\t')
+        writer.writerow(["infection_prob", "prestige", "size"])
+        for p, data in sorted(results_size.items(), key=lambda x: x[0]):
+            if p not in filtered:
+                continue
+            for (pi, size) in data:
+                if not np.isnan(size) and not np.isinf(size):
+                    writer.writerow([p, pi, size])
+
     colors = iter(cm.rainbow(np.linspace(0, 1, length_of_results)))
     markers = Line2D.filled_markers; count = -1
-    for p, data in sorted(results_size.items(), key=lambda x: x[0]):
-        if p not in filtered:
-            continue
-        c = next(colors); count += 1; m = markers[count]
-        ax.scatter(*zip(*data), color=c, label='{0:.2f}'.format(p), s=28, marker=m, edgecolor='w', clip_on=False, zorder=1)
 
-        x = [pi for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
-        if p == 0.1:
+    with open(cache_dir.replace(".p", "_size.tsv"), 'w') as file:
+        writer = csv.writer(file, delimiter='\t')
+        writer.writerow(["infection_prob", "prestige", "size"])
+        for p, data in sorted(results_size.items(), key=lambda x: x[0]):
+            if p not in filtered:
+                continue
+            c = next(colors); count += 1; m = markers[count]
+            ax.scatter(*zip(*data), color=c, label='{0:.2f}'.format(p), s=28, marker=m, edgecolor='w', clip_on=False, zorder=1)
+            for (pi, size) in data: writer.writerow([p, pi, size])
 
-            prev = data[0][1]
-            diffs = []
-            for (i, row) in enumerate(data):
-                if i in [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]:
-                    diffs.append(prev*100.0-row[1]*100.0)
-                    prev = row[1]
+            x = [pi for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
+            if p == 0.1:
 
-        max_pi = max(x)
-        if p > 0:
-            # Fit a logistic curve to this
-            y = [length for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
+                prev = data[0][1]
+                diffs = []
+                for (i, row) in enumerate(data):
+                    if i in [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]:
+                        diffs.append(prev*100.0-row[1]*100.0)
+                        prev = row[1]
 
-            popt, pcov = curve_fit(curve, np.array(x), np.array(y), bounds=(0., [1., 2., 200.]), maxfev=100)
-            y = curve(x, *popt)
+            max_pi = max(x)
+            if p > 0:
+                # Fit a logistic curve to this
+                y = [length for (pi, length) in data if not np.isnan(length) and not np.isinf(length)]
 
-            ax.plot(x, y, color=c)
+                popt, pcov = curve_fit(curve, np.array(x), np.array(y), bounds=(0., [1., 2., 200.]), maxfev=100)
+                y = curve(x, *popt)
+
+                ax.plot(x, y, color=c)
 
     ax.set_xlim(0, max_pi)
     ax.tick_params(labelsize=12)
@@ -466,13 +484,16 @@ def plot_size_infection_probability(cache_dirs, threshold=0.00, bins=range(0, 10
     ax2.set_xscale("log")
     ax2.set_xlim(0.04, 10)
     ax1.set_xlim(0, 1)
-    
+
     ax1.set_xlabel(r'Transmission Probability, $p$', fontsize=plot_utils.LABEL_SIZE)
     ax2.set_xlabel(r'Effective Transmission Probability, $p^{*}$', fontsize=plot_utils.LABEL_SIZE)
     ax1.set_ylabel(r'Epidemic Size, $\frac{Y}{N}$', fontsize=plot_utils.LABEL_SIZE)
     
     plot_utils.finalize(ax1)
     plot_utils.finalize(ax2)
+
+    ax1.text(0.015, 0.95, r"{\bf (A)}", fontsize=26, weight='heavy', transform=ax1.transAxes)
+    ax2.text(0.015, 0.95, r"{\bf (B)}", fontsize=26, weight='heavy', transform=ax2.transAxes)
 
     plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), fontsize=plot_utils.LEGEND_SIZE, scatterpoints=1, frameon=False)
     plt.savefig('results/infectious-size-results-of-ALL-SI.eps', bbox_inches='tight', format='eps', dpi=1000)
